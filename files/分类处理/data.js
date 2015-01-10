@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"分类处理.html",
-  "generationDate":new Date(1420876175930.83),
+  "generationDate":new Date(1420880723413.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

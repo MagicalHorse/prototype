@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"收银对账-财务.html",
-  "generationDate":new Date(1420876175232.33),
+  "generationDate":new Date(1420880722706.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

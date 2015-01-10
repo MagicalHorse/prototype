@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"销售统计-财务.html",
-  "generationDate":new Date(1420876175648.64),
+  "generationDate":new Date(1420880723132.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

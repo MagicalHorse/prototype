@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"包裹管理.html",
-  "generationDate":new Date(1420876171974.19),
+  "generationDate":new Date(1420880719316.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"group2.html",
-  "generationDate":new Date(1420876178084.35),
+  "generationDate":new Date(1420880725637.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -1106,7 +1106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/group/box_u43.png"}},
+            "normal~":"images/group2/box_u43.png"}},
 {
           "id":"b05f7233e5bf4900b95ea7d2d8359cc3",
           "label":"line, diagonal L-R",
@@ -1221,7 +1221,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/group/image_placement_label_u49.png"}},
+            "normal~":"images/group2/image_placement_label_u49.png"}},
 {
           "id":"c214545cb000445aa3d126b11d855db5",
           "label":"text",
@@ -1427,7 +1427,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/group/box_u57.png"}},
+            "normal~":"images/group2/box_u57.png"}},
 {
           "id":"2590b819041943b69083eb34945612af",
           "label":"line, diagonal L-R",
@@ -1544,7 +1544,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/group/image_placement_label_u63.png"}},
+            "normal~":"images/group2/image_placement_label_u63.png"}},
 {
           "id":"ead5dbe2624942f2945b3a801621f858",
           "label":"text",
@@ -1701,7 +1701,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/group/box__transparent_u69.png"}},
+            "normal~":"images/group/box__transparent_u41.png"}},
 {
           "id":"68abe5ef5035479c8ea69b513c7e79cf",
           "label":"box",
@@ -2122,11 +2122,11 @@
                                 "value":"false",
                                 "stos":[]}]}]}}]}]}},
           "images":{
-            "normal~":"images/group/button_u85.png",
-            "selected~":"images/group/button_u85_selected.png",
-            "mouseOver~":"images/group/button_u85_selected.png",
-            "mouseDown~":"images/group/button_u85_mouseDown.png",
-            "disabled~":"images/group/button_u85_disabled.png"}},
+            "normal~":"images/group/button_u57.png",
+            "selected~":"images/group/button_u57_selected.png",
+            "mouseOver~":"images/group/button_u57_selected.png",
+            "mouseDown~":"images/group/button_u57_mouseDown.png",
+            "disabled~":"images/group/button_u57_disabled.png"}},
 {
           "id":"71171a0bc4e847bca3275864094c3e1d",
           "label":"button label",
@@ -2428,7 +2428,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/group/box__transparent_u69.png"}},
+            "normal~":"images/group/box__transparent_u41.png"}},
 {
           "id":"90e853d3615c4bddb4eb9569fee22e44",
           "label":"box",

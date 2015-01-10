@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"favorlist.html",
-  "generationDate":new Date(1420876179147.1),
+  "generationDate":new Date(1420880726775.76),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
