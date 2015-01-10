@@ -1,0 +1,9398 @@
+﻿$axure.loadCurrentPage({
+  "url":"销售单管理.html",
+  "generationDate":new Date(1420876171083.55),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"DroplistOption",
+"ClickOnHandle"],
+  "page":{
+    "packageId":"95ee3e1aa67c44b9b2465f66ae1c7118",
+    "type":"Axure:Page",
+    "name":"销售单管理",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"53e9dae3f35a44cdace166bcf71ef0bc",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"c10bb8382c994f4280bd68761b8aeb8c"},
+{
+          "id":"b2ddf7d3f71d4b16b272d70ce607e30d",
+          "label":"box, transparent",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":10,
+              "y":241},
+            "size":{
+              "width":1069,
+              "height":89}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"17b0f999732b4549bc3e2c38c33a7847",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":10,
+                  "y":241},
+                "size":{
+                  "width":1069,
+                  "height":89}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/销售单管理/box__transparent_u39.png"}},
+{
+          "id":"1705abf92d654aa094083ebb55ddc97d",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":20,
+              "y":250},
+            "size":{
+              "width":110,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9a2dfb1ee310484ba428d2b3e1d99d7d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":20,
+                  "y":250},
+                "size":{
+                  "width":110,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"cf31b9965d844e7f8babc83e92443c9b",
+          "label":"text field",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":90,
+              "y":250},
+            "size":{
+              "width":180,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5b4523edfdc24f82873a6dc52a40855f",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":280,
+              "y":250},
+            "size":{
+              "width":110,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1a98b388ea144b73b4e6be71b69901d8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":280,
+                  "y":250},
+                "size":{
+                  "width":110,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"efc88d20b1e64c599cb2eb8259b84b10",
+          "label":"text field",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":350,
+              "y":250},
+            "size":{
+              "width":180,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"893570af656a42d09595af3168175400",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":20,
+              "y":285},
+            "size":{
+              "width":110,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c7ea25d669d94790b5b7c98a1ddd9766",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":20,
+                  "y":285},
+                "size":{
+                  "width":110,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"05a660b0034b4c11a167bfb3821dee67",
+          "label":"text field",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":90,
+              "y":285},
+            "size":{
+              "width":180,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"8419752ce06d4ca78dd9f438216b647d",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":270,
+              "y":285},
+            "size":{
+              "width":50,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3e6661697154436886bbfce5b81a21a2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":270,
+                  "y":285},
+                "size":{
+                  "width":50,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ff1af7a5c2524aa5a333e3fa5e8be69f",
+          "label":"text field",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":290,
+              "y":285},
+            "size":{
+              "width":180,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e77520132f3847e2a44aa1dd5b092e10",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":492.5,
+              "y":282},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f7806fb60c4347009c673c40617e6bf3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":492.5,
+                  "y":282},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e77520132f3847e2a44aa1dd5b092e10"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e77520132f3847e2a44aa1dd5b092e10"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"b05518ae3f9340b2bd1ae09754c91d92",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":500,
+              "y":285},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2cacbd98929744009f0dee90be2c7f56",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":500,
+                  "y":285},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e77520132f3847e2a44aa1dd5b092e10"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e77520132f3847e2a44aa1dd5b092e10"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e234d1ebc2c64b269432a958858cbd97",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":650,
+              "y":282},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"66c8f613b878414ba812b336c883dfb3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":650,
+                  "y":282},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e234d1ebc2c64b269432a958858cbd97"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e234d1ebc2c64b269432a958858cbd97"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"161dc0367c0c431fadc32b8180c87ed2",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":650,
+              "y":282},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d558c752735a46b4806917efaff40e78",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":650,
+                  "y":282},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e234d1ebc2c64b269432a958858cbd97"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e234d1ebc2c64b269432a958858cbd97"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"707268f814214f9e893e9beb0ada455c",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":540,
+              "y":250},
+            "size":{
+              "width":60,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9cc7883bad5a4148900cc9084dbcff0c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":540,
+                  "y":250},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1b9b43b4bea340da99bde2b668845a05",
+          "label":"droplist",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":600,
+              "y":250},
+            "size":{
+              "width":180,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"561265af4c8e4b68b3fe30cb13f59853",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":800,
+              "y":247},
+            "size":{
+              "width":60,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"42664213447b41b98408159a5e45ba87",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":800,
+                  "y":247},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f942ad742adf485eb00ee79d9effef95",
+          "label":"droplist",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":860,
+              "y":247},
+            "size":{
+              "width":180,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"001ca537d08a4461947eff048d3b3be1",
+          "label":"tab",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":9.5,
+              "y":400},
+            "size":{
+              "width":91,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4d7a8649007a4a02a29a881e9296d55f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":9.5,
+                  "y":400},
+                "size":{
+                  "width":91,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["001ca537d08a4461947eff048d3b3be1"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"toggle",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/销售单管理/tab_u67.png",
+            "selected~":"images/销售单管理/tab_u67_selected.png",
+            "mouseDown~":"images/销售单管理/tab_u67_mouseDown.png",
+            "disabled~":"images/销售单管理/tab_u67.png"}},
+{
+          "id":"6c9e65abf1be41bd8fab0796761dc56b",
+          "label":"tab label",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":13.5,
+              "y":404},
+            "size":{
+              "width":83,
+              "height":16},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c85c0fbd3ea84332ad70e9ca03430e94",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":13.5,
+                  "y":404},
+                "size":{
+                  "width":83,
+                  "height":16},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["001ca537d08a4461947eff048d3b3be1"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"toggle",
+                                "stos":[]}]}]}},
+{
+                      "action":"setPanelState",
+                      "description":"Set (Dynamic Panel) to saleorder",
+                      "panelsToStates":[{
+                          "panelPath":["ce5d8b13830144118a78f715d097574d"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "mouseOver~":"resources/images/transparent.gif"}},
+{
+          "id":"e2b969dffdaa47cf9fff43397da74d1e",
+          "label":"tab",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":110.5,
+              "y":400},
+            "size":{
+              "width":91,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"40dc1a1828e24887ba58d83c22cda23a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":110.5,
+                  "y":400},
+                "size":{
+                  "width":91,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e2b969dffdaa47cf9fff43397da74d1e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"toggle",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/销售单管理/tab_u67.png",
+            "selected~":"images/销售单管理/tab_u67_selected.png",
+            "mouseDown~":"images/销售单管理/tab_u67_mouseDown.png",
+            "disabled~":"images/销售单管理/tab_u67.png"}},
+{
+          "id":"2ef6578b074248b39429189af7f85cc2",
+          "label":"tab label",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":114.5,
+              "y":404},
+            "size":{
+              "width":83,
+              "height":16},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ff92cb6b9c784a14bb32c465395aadd9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":114.5,
+                  "y":404},
+                "size":{
+                  "width":83,
+                  "height":16},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e2b969dffdaa47cf9fff43397da74d1e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"toggle",
+                                "stos":[]}]}]}},
+{
+                      "action":"setPanelState",
+                      "description":"Set (Dynamic Panel) to detail",
+                      "panelsToStates":[{
+                          "panelPath":["ce5d8b13830144118a78f715d097574d"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "mouseOver~":"resources/images/transparent.gif"}},
+{
+          "id":"ce5d8b13830144118a78f715d097574d",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":430},
+            "size":{
+              "width":780,
+              "height":420}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"73643d1f074642c08611445d11127275",
+              "label":"saleorder",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"90dc84ab5abe4b5795154f3b59b890d8",
+                  "label":"box",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "size":{
+                      "width":820,
+                      "height":150}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9f17bc0b05b84e0facefee5504ae548d",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "size":{
+                          "width":820,
+                          "height":150}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/销售单管理/box_u76.png"}},
+{
+                  "id":"bfb7fc3cb1654f0389b3fd2f7ac11153",
+                  "label":"table",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":-80,
+                      "y":18},
+                    "size":{
+                      "width":1077,
+                      "height":60}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"83c7f7ef1f8c41b4919925e221263031",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":63,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"7a4ddc4e76c440f69fa1b505728e4ca4",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":63,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"4479bf7708084535be5e6497d9eb8b7e",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":63,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"9f8be39ce1894bd5be946069555f1d99",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":63,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"556f6e54b8ba40c6bac2654ce19e6bce",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":63,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"d19136151f28426da830269c6317f279",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":63,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"dbb65695c32a4d94a79082a4fff08498",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":126,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"bd26b3f9427e4cf296e90f0a5de46982",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":126,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"b432e529aad641c183fda016865b2841",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":126,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"69cfc88c437849b3aa8809462d5d9609",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":126,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"5b64aabfa64f48e3b851866cd7acd7de",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":126,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"5dfb335ddf4b4ec7a40922e3174acd8f",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":126,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"b9e1861cbdc94281b62bb0beb42aa3af",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":315,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"0e870502e1fb49afada9900a16bc9aae",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":315,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"2718cf17732b44cc95575fc5847c89ce",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":315,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"047e9580abaf4996a1dfbac9286c6805",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":315,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"c4977dbe29fd4b3bba398d4f38868794",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":315,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"70acd8d7f41349a7ba36e11c1cc44562",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":315,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"387bc7de83f44821ba23a3a54ce3429c",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":378,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"92ec548af8ea4dd480e16330c81e46ce",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":378,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"3004656f31964ccebb9a4f90ae41b1d3",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":378,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"38cabfb0be5e4200932550be5bd7126b",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":378,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"2be947b26ca843f8a3bc8a56d3ebd78b",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":378,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"c8bb7c4929954a59919002aa7a2fa0a9",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":378,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"b696a84d2210461e9b96db0a29f57e4d",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":441,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"17714bc203c04713a83c8a18cebf6917",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":441,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"f260439bc4744605ba9f2c97b3902f55",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":441,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"c68c0bd5cf9840b5a4a454922d9b617e",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":441,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"251b4aeaf4af45c789fd8fa1fb9aa5f9",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":441,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"ba54de35ae334663b3ee075f93f25606",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":441,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"c596361aaa2f4a9bbf132c0ac62d937e",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":504,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"fa28a978042b4bec94691d888d86903b",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":504,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"cb2290309b214710ba80c073720cc4a9",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":504,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"6118f90736274baca3414d8b170974a5",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":504,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"a302b1b03ea846bd94e73b045f40e3fc",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":504,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"09f708672fcf467fa2cba4813a8e2586",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":504,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"4e81178f6e484d3897887b18ab3a6a41",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":567,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"a6f5195666984566aaa9c7acdf2aedff",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":567,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"0d008b5b3ce54297a33e40f302765a4a",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":567,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"031abe57ede64eb9972492482a2371c4",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":567,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"007f878724c74e7b9d206416bd92b013",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":567,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"a549b659d87e43239eb6d27155980993",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":567,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"b1b87f3154be42ce9813f96a1d5b02cb",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":819,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"35ec13d44937498ea92837d4a48c8058",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":819,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"e2a2d84f733c47cfb9fa61008c7bc458",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":819,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"5a0c53069f3c4d878ce3f660cf8fa228",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":819,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"2d634f932e034cbdba82bf21267c6d94",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":819,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"ddcf727039a946eeb0700d93b06081c4",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":819,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"94217bd0d76f4cf59fc886e5eeadd878",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":882,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"64f1597283df4e519798c25c6a4db442",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":882,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"4cbbfd93f8fc4ce898dafde858d8ff43",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":882,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"72d7067895394d39b20a75b3f2c5fd1c",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":882,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"dd2ea38ad0b549c282a4d336876295c5",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":882,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"83f898bf1386466d904c56e5e46ea2bf",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":882,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"038af8f0610740639e49859163214fde",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":945,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"892702e8f2ab4f82ab9ffd156c100907",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":945,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"c53843e7880d4fceb260fbe754394447",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":945,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"5f78f03d878d40c88216df482bec09a6",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":945,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"d8fbedf223594b5389035a0123501236",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":945,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"fc2e1947b57f4974bb0c82cdd5330a2b",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":945,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"cbe659fd702d4d049fcd116c0099b160",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":1008,
+                          "y":0},
+                        "size":{
+                          "width":69,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"8c46e97ff25645d5be649c6d1127fa56",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":1008,
+                              "y":0},
+                            "size":{
+                              "width":69,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u111.png"}},
+{
+                      "id":"8ddd9124bad74bb18c3a6da5f379d52f",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":1008,
+                          "y":20},
+                        "size":{
+                          "width":69,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"14e8d0818db149e39e1fbd3e0ec45927",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":1008,
+                              "y":20},
+                            "size":{
+                              "width":69,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u111.png"}},
+{
+                      "id":"d73672cdbc3b45abb9e400f738c8f727",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":1008,
+                          "y":40},
+                        "size":{
+                          "width":69,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"84b656ac96be44b89a094fa6fe91c58a",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":1008,
+                              "y":40},
+                            "size":{
+                              "width":69,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u179.png"}},
+{
+                      "id":"40c2663eb74c43f5a33a7107f5d83df9",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":630,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"f800b7df91f143b091ff2242d80224a6",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":630,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"7f0b6fc037ea46c3a4229fbd881bb624",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":630,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"6b7ccb873e8f4fb9b14d0a04793d1a24",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":630,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"b0098c9763ec4f4288c73e23fd12e942",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":630,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"6893aa022bcf4e678df6cb45d39ebf9e",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":630,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"0d306bcc2e2f47e8b734d2cb3a3c3373",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":252,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"8e208859fd514f80a8f06bc73b9096e8",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":252,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"8fe3af20eaf3441bb914834c61318325",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":252,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"a5c8e99f120244e3867e08137b2e1eea",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":252,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"1604635ef33047bdb237757cf854648d",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":252,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"46af016d18084fe4aef8d525e348748c",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":252,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"4009e031a97c4cf58e4edef19cb8f245",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"750ee71936454fa294b7978ae0473ba8",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"1529e356d6f249c8a1e07cb5164c692c",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":0,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"fd1205bb53914e4b99919bac4d7d2c79",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":0,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"a5f96e61cec8415bac331928f96624c3",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":0,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"806db59bf7534171b7c2d6cd7c371295",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":0,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"d5e3aeedcdcd4619bed4e9af125183a7",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":693,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"98728a806c2c4c0f9cd4a338785d8a0d",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":693,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"4713a3fe116b4e1bbbc7a2c122ecf5d5",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":693,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"adcec890128b41b799302b6a4842ed56",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":693,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"cde83e42706d48ada99d49be28a53666",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":693,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"026c86bfa7f34b4b96d0a5bc7f2e677b",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":693,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"2986048e380d4abdabffff15f49f69bc",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":756,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"3ba7242eee104a1da896e94ab9b97655",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":756,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"bfdf162e41ab4af48d3a21740cf26085",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":756,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"0c1bbe6cbc4d4381b659bdac002f8cbf",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":756,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"03bea2d3b7044c36ad793f6b07f81aa3",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":756,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"0fffba56aa894ae885d12c04e9312607",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":756,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"ff72b7de1ad24b3c84079e1fdb736fed",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":189,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"40d03382894e4af8aa48d3fb3b01435c",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":189,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"c6d5642f27a943a79a45d551ab45e953",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":189,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"5bdd836c2a1340cb8d3eae4709ed253f",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":189,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"d05b29ef422b4c9ead5dc8f181d84098",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":189,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"c9e1351f10594998a14c419631019aa9",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":189,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}}]},
+{
+                  "id":"f0a2d664675e4767a9229fcb6f9b9ec3",
+                  "label":"checkbox label",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"12px",
+                    "horizontalAlignment":"left",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "underline":true,
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF0000FF,
+                          "opacity":1}}},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":17,
+                      "y":18},
+                    "size":{
+                      "width":100,
+                      "height":18},
+                    "borderWidth":"-1",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "cornerRadiusTopLeft":"1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"91b9c3973f074a0fb3eaf99d8f559fc3",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"12px",
+                        "horizontalAlignment":"left",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "stateStyles":{
+                          "mouseOver":{
+                            "underline":true,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF0000FF,
+                              "opacity":1}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":17,
+                          "y":18},
+                        "size":{
+                          "width":100,
+                          "height":18},
+                        "borderWidth":"-1",
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "cornerRadiusTopLeft":"1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"Set is selected of checkbox equal to &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["301e8c59813447498d73830ed0f2a9af"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"resources/images/transparent.gif",
+                    "mouseOver~":"resources/images/transparent.gif"}},
+{
+                  "id":"301e8c59813447498d73830ed0f2a9af",
+                  "label":"checkbox",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"12px",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "stateStyles":{
+                      "selected":{
+},
+                      "disabled":{
+}},
+                    "location":{
+                      "x":0,
+                      "y":20},
+                    "size":{
+                      "width":17,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2ab7d4806b8e4ce5a17d85c21c88bbd3",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"12px",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "stateStyles":{
+                          "selected":{
+},
+                          "disabled":{
+}},
+                        "location":{
+                          "x":0,
+                          "y":20},
+                        "size":{
+                          "width":17,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"Set is selected of checkbox equal to &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["301e8c59813447498d73830ed0f2a9af"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/销售单管理/checkbox_u183.png",
+                    "selected~":"images/销售单管理/checkbox_u183_selected.png",
+                    "disabled~":"images/销售单管理/checkbox_u183_disabled.png"}},
+{
+                  "id":"0bee237f754f4e87a53c8919a5519050",
+                  "label":"box, transparent",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":-17,
+                      "y":88},
+                    "size":{
+                      "width":787,
+                      "height":32}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"95ef9fef2fe54fce8b1a181277eced95",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":-17,
+                          "y":88},
+                        "size":{
+                          "width":787,
+                          "height":32}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/销售单管理/box__transparent_u185.png"}},
+{
+                  "id":"1a3129d800ea4bbea5494eb9ef4e5555",
+                  "label":"text",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"16px",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":40,
+                      "y":95},
+                    "size":{
+                      "width":250,
+                      "height":35},
+                    "borderWidth":"-1",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "cornerRadiusTopLeft":"1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f0545b52fadc4183ab80546bc2fdf10e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"16px",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":40,
+                          "y":95},
+                        "size":{
+                          "width":250,
+                          "height":35},
+                        "borderWidth":"-1",
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "cornerRadiusTopLeft":"1"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}]},
+{
+              "id":"14c9666f834b40c0a359636c98022ce7",
+              "label":"detail",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"0c25968e3a964b33b562f9795f721096",
+                  "label":"box",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "size":{
+                      "width":810,
+                      "height":420}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a2ed226be70540918d2c2f7411e5fd7c",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "size":{
+                          "width":810,
+                          "height":420}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/销售单管理/box_u189.png"}},
+{
+                  "id":"d5961fb5c8c045ccb5f9dc73068d46e1",
+                  "label":"table",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":30,
+                      "y":20},
+                    "size":{
+                      "width":760,
+                      "height":60}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"22a26af9f2fd4563806fd8d72d9b3efa",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"0b19bc496ffb45a5918980f55c9e1066",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"ac5fc8bfdb6b478e8260971bd4b577f6",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":0,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"2442a57e6db5490eaa4e26d66a563446",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":0,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"6362e786af004807a42a0978890449ce",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":0,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"9dcc7c2b8c8e4296b827b16571598fa8",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":0,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"2481434765e54577a8759d4666ac1558",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":63,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"8b1ccf01b8a84ad9a1bbe40a6475683d",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":63,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"0b0a9860952a4361b0e3d141944ec636",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":63,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"456c85a423cc4bc69cc0410f6de8d8ea",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":63,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"ecb41ec0116a4418b91c44bc260dc252",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":63,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"c6573de3e1af44cb9876b0ee7a26d2d1",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":63,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"06ee8ea3d84b4e219e768804cb353c77",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":252,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"002575e1db1147c991d3ddf3eabc5587",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":252,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"e5fb894bb13447b7ab8ea86eb11ba7a7",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":252,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"910c691cf18a42b9b83dd87715402acb",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":252,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"b99398103cc6463181140a6e9fdf7338",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":252,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"0cfc19d81bdc459095b0f86de3205388",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":252,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"edec066c1ad94c6c85db9046faeb2fcf",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":378,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"6761d4984fd94d03bdb58166e3ed0558",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":378,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"629e7f32caa140e69e5a08a84296202c",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":378,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"ed5121715c524edf966d76bcb25c9202",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":378,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"b59c98e59c9746a6810515dfcfba3f77",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":378,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"aec86ff6b5314dbb92ea25b8797d2937",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":378,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"fb9deb09062c4ac3af0546c9c5dfa6de",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":189,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"6208638c8db14e8fb57a106065ff045f",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":189,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"cfca88db90d64b1db2ca6290e9ccfa99",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":189,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"ed7eeb35ca624eba872d93b0c29a1154",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":189,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"66a3fae865a04fa88e46b58ab91960b0",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":189,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"ff951d0c458e46908d87877326983795",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":189,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"aece0de7792d4b79bb73921d8d8d0cdd",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":315,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"aa915ab1ef2c4d4898679ab4cd626c83",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":315,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"a42423426bfe404d8c203276f90c99f2",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":315,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"99ec68e8f5dc4454a497fd3c1c795ddf",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":315,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"f0baa78b3ebf44e496d241322b303831",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":315,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"7052c5a703cd4472bfda4beced5e0bdb",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":315,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"2d8a3e4f7b3740c3a1f7e86bc63120c1",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":126,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"45f208bcbe404c719f3ff2f3dfadf2f1",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":126,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"5002b22fcb5842928bd513b51697f53a",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":126,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"636bc4382b134ed6b4981e5cda54fc3d",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":126,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"16aceaae1da14637951cb95f005d28f7",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":126,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"0f447d3d7c9a47f89b6a4264b05a33b0",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":126,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"7ede05564abf481989a7d46fbd3b3ed8",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":504,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"ec6224a7f8674bce861eb7888b8496f5",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":504,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"01bb965bd8ea486a9783a008142c24d9",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":504,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"29b4f7c2339b49dd9dcdf2456ec9a351",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":504,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"795f4e1d189f4bf8b5aa360218614372",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":504,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"cfcf19e5787e4074a5e5eee22d5a846c",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":504,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"200fcb7d72474633bd30df13f21a014c",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":567,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"9f8bd85b4818478a86568a294ad2bf86",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":567,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"551dc3f320ee40c28049d4d1bd6fc2b9",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":567,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"2d2f9de8265446c1a58432b8767f177a",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":567,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"2c8def07c4d64ff0bceeeeb26cef619b",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":567,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"9262662b15a34b75a659f09406d7ee7c",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":567,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"3b6340c20f1547548f525993e730dd99",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":630,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"0ca0f17cb9044c66b8362ab34e633e57",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":630,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"03ad11a906f244d5b88530de22d4eebc",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":630,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"d5db5fd5c54942bfbe2d29b8d6d36eea",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":630,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"893671d69db34c26a0fac41e765134d0",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":630,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"2d93055f80ea428cb01cd803e95f27ec",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":630,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"e296458bcaee455cb173765060b3b0af",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":441,
+                          "y":0},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"33ce02cfa95c48dd816d24f8af844ac3",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":441,
+                              "y":0},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"b728aab41acf466a979027ba03e0f986",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":441,
+                          "y":20},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"07db3ff89e7243a8ace2d0ef4235c621",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":441,
+                              "y":20},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u79.png"}},
+{
+                      "id":"8b2e0fbcf892415aa43f2be7fa971f5b",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":441,
+                          "y":40},
+                        "size":{
+                          "width":63,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"02bebf0a09ba42fdbe7d2950d5a284f6",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":441,
+                              "y":40},
+                            "size":{
+                              "width":63,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u147.png"}},
+{
+                      "id":"d94f79c8b4174d948f56611d4ac401ef",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":693,
+                          "y":0},
+                        "size":{
+                          "width":67,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"431278be81bb48948899596f688182c8",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":693,
+                              "y":0},
+                            "size":{
+                              "width":67,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u214.png"}},
+{
+                      "id":"ac9b5d0045234bd695fadc5c08248219",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":693,
+                          "y":20},
+                        "size":{
+                          "width":67,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"db59ac633f224b2884f30cef35bae8d2",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":693,
+                              "y":20},
+                            "size":{
+                              "width":67,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u214.png"}},
+{
+                      "id":"d8ec91a13dec40e7b48eeaf9adae18d0",
+                      "label":"",
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":693,
+                          "y":40},
+                        "size":{
+                          "width":67,
+                          "height":20},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF666666}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"7768e6584a7540308b6c8b066cd74e52",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":693,
+                              "y":40},
+                            "size":{
+                              "width":67,
+                              "height":20},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF666666}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/销售单管理/u262.png"}}]},
+{
+                  "id":"55bc115ff8f54ed681798a460b2c3c19",
+                  "label":"text",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"12px",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":30,
+                      "y":0},
+                    "size":{
+                      "width":110,
+                      "height":25},
+                    "borderWidth":"-1",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "cornerRadiusTopLeft":"1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"91f9e58053a0410bb5442c33f1692737",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"12px",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":30,
+                          "y":0},
+                        "size":{
+                          "width":110,
+                          "height":25},
+                        "borderWidth":"-1",
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "cornerRadiusTopLeft":"1"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"90b107b86a33416b8ae866ac6abac05c",
+                  "label":"text",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"12px",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":30,
+                      "y":80},
+                    "size":{
+                      "width":110,
+                      "height":25},
+                    "borderWidth":"-1",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "cornerRadiusTopLeft":"1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"be3fd4858ace4bb79f3eafa62f97fcf6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"12px",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":30,
+                          "y":80},
+                        "size":{
+                          "width":110,
+                          "height":25},
+                        "borderWidth":"-1",
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "cornerRadiusTopLeft":"1"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"9ded7095131b4158a64493098b2fc06d",
+                  "label":"text",
+                  "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"16px",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":30,
+                      "y":105},
+                    "size":{
+                      "width":730,
+                      "height":65},
+                    "borderWidth":"-1",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "cornerRadiusTopLeft":"1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a54f38cfd0cd4e3a9c2d8dbd4130b7b2",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ce5d8b13830144118a78f715d097574d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"16px",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":30,
+                          "y":105},
+                        "size":{
+                          "width":730,
+                          "height":65},
+                        "borderWidth":"-1",
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "cornerRadiusTopLeft":"1"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}]}]},
+{
+          "id":"89fac90ca0644271be441fd442485d33",
+          "label":"box, transparent",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":816,
+              "y":413},
+            "size":{
+              "width":274,
+              "height":437}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"163edef60ab64186aada71d035a49cdf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":816,
+                  "y":413},
+                "size":{
+                  "width":274,
+                  "height":437}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/销售单管理/box__transparent_u270.png"}},
+{
+          "id":"a6f1bfa04117457cbf26b0475deb5766",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":820,
+              "y":430},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9620a5a93e0a43cb92a9157fdc711cad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":820,
+                  "y":430},
+                "size":{
+                  "width":100,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a6f1bfa04117457cbf26b0475deb5766"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a6f1bfa04117457cbf26b0475deb5766"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u272.png",
+            "selected~":"images/销售单管理/button_u272_selected.png",
+            "mouseOver~":"images/销售单管理/button_u272_selected.png",
+            "mouseDown~":"images/销售单管理/button_u272_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u272_disabled.png"}},
+{
+          "id":"c2b3379d910e4024bb8fde8a43f2ae9a",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":830,
+              "y":434},
+            "size":{
+              "width":86,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3255be06c6854a2492212b9486bfe49b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":830,
+                  "y":434},
+                "size":{
+                  "width":86,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a6f1bfa04117457cbf26b0475deb5766"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a6f1bfa04117457cbf26b0475deb5766"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"fbbd1767763448b786857d9ff83f9327",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":926,
+              "y":430},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"56db69a35ed94b6c9546153162268dd9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":926,
+                  "y":430},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["fbbd1767763448b786857d9ff83f9327"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["fbbd1767763448b786857d9ff83f9327"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"b335b60d820a4611ad34d95fcae312a4",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":926,
+              "y":434},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7bbfa11096344eb09c506a4d9144e03a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":926,
+                  "y":434},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["fbbd1767763448b786857d9ff83f9327"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["fbbd1767763448b786857d9ff83f9327"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c7ebe3de10cb44ea9f3e9cda51442aab",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":816,
+              "y":465},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bd8d1785fbca46a58ea4accab55e9e4b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":816,
+                  "y":465},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c7ebe3de10cb44ea9f3e9cda51442aab"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c7ebe3de10cb44ea9f3e9cda51442aab"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"59095b700c0347fd90d453f9ef06ff6b",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":816,
+              "y":469},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a42f65f796804d51a9840c60e078ab58",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":816,
+                  "y":469},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c7ebe3de10cb44ea9f3e9cda51442aab"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c7ebe3de10cb44ea9f3e9cda51442aab"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"985f3fef78754ce5b2993ad8f402112d",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":930,
+              "y":469},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"032bb0add8414d30858b0aeb5ec39917",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":930,
+                  "y":469},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["985f3fef78754ce5b2993ad8f402112d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["985f3fef78754ce5b2993ad8f402112d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"1bee0536fc4c4da78c1e360c56f8e052",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":930,
+              "y":473},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eb3bb814f70b41c8afa7a4202f38d73c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":930,
+                  "y":473},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["985f3fef78754ce5b2993ad8f402112d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["985f3fef78754ce5b2993ad8f402112d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8dc8fc871be344d4b2d6fbd3c55749c0",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":821,
+              "y":500},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"172157aff52c4b7c95bd4fc9c8bd9c63",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":821,
+                  "y":500},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8dc8fc871be344d4b2d6fbd3c55749c0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8dc8fc871be344d4b2d6fbd3c55749c0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"f37b2afdf8dd48e3a77aea03aa44df54",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":821,
+              "y":504},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"be9fa2a7c8d145edaa81948b785a5835",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":821,
+                  "y":504},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8dc8fc871be344d4b2d6fbd3c55749c0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8dc8fc871be344d4b2d6fbd3c55749c0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"114898e26635406db5554e2d0a377045",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":931,
+              "y":504},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f3bd5fa7a17f44ea84c2fa167249e476",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":931,
+                  "y":504},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["114898e26635406db5554e2d0a377045"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["114898e26635406db5554e2d0a377045"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"174ce23b7a1b4972ad573de038012397",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":931,
+              "y":508},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7145b8ae19b246929d0fa624b04a11e9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":931,
+                  "y":508},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["114898e26635406db5554e2d0a377045"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["114898e26635406db5554e2d0a377045"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5c7b8c9e2ea146188d8544aa507aae32",
+          "label":"tab",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":825,
+              "y":535},
+            "size":{
+              "width":91,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c436850a673a475a8918701261a91deb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":825,
+                  "y":535},
+                "size":{
+                  "width":91,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["5c7b8c9e2ea146188d8544aa507aae32"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"toggle",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/销售单管理/tab_u67.png",
+            "selected~":"images/销售单管理/tab_u67_selected.png",
+            "mouseDown~":"images/销售单管理/tab_u67_mouseDown.png",
+            "disabled~":"images/销售单管理/tab_u67.png"}},
+{
+          "id":"c696abe554994d59a980f214ca821ce1",
+          "label":"tab label",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":829,
+              "y":539},
+            "size":{
+              "width":83,
+              "height":16},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6652cbdcde7246a2b7bbe71cb9ad8376",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":829,
+                  "y":539},
+                "size":{
+                  "width":83,
+                  "height":16},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["5c7b8c9e2ea146188d8544aa507aae32"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"toggle",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "mouseOver~":"resources/images/transparent.gif"}},
+{
+          "id":"7933f4c0a2434ec7ad3ee00a4fe917b7",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":829,
+              "y":568},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5e022a1019074850a161e7a089f175c6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":829,
+                  "y":568},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7933f4c0a2434ec7ad3ee00a4fe917b7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7933f4c0a2434ec7ad3ee00a4fe917b7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"72b6d934f3e746fab3011c513ed6275a",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":829,
+              "y":572},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cabb5a761c7643ffb4e0243a0b1703f3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":829,
+                  "y":572},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7933f4c0a2434ec7ad3ee00a4fe917b7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7933f4c0a2434ec7ad3ee00a4fe917b7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d58a76f0c92e450989b4e3021d1bc698",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":939,
+              "y":572},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6454c412bbcc4b7c96e7f8e14a9068aa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":939,
+                  "y":572},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d58a76f0c92e450989b4e3021d1bc698"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d58a76f0c92e450989b4e3021d1bc698"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"d3f6a5e85ea04b0892e49be3f59f440e",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":939,
+              "y":576},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"32233abeef264fb1b78414a84942436a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":939,
+                  "y":576},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d58a76f0c92e450989b4e3021d1bc698"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d58a76f0c92e450989b4e3021d1bc698"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+    "c10bb8382c994f4280bd68761b8aeb8c":{
+      "packageId":"c10bb8382c994f4280bd68761b8aeb8c",
+      "type":"Axure:Master",
+      "name":"erp",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"942bf5d5af6049a7aedb561d416fcb69",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":10,
+                "y":110},
+              "size":{
+                "width":1069,
+                "height":121}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"cd35df1296214afd91f645986a5ad0e1",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":10,
+                    "y":110},
+                  "size":{
+                    "width":1069,
+                    "height":121}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/销售单管理/u1.png"}},
+{
+            "id":"48793141279747ff88361c03065f529c",
+            "label":"",
+            "type":"menuObject",
+            "styleType":"menuObject",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":221,
+                "y":14},
+              "size":{
+                "width":100,
+                "height":60}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"42a9d2f8d4914090a731268811398a64",
+                "label":"",
+                "type":"table",
+                "styleType":"table",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":100,
+                    "height":60}},
+                "adaptiveStyles":{
+},
+                "objects":[{
+                    "id":"338eafd175434c3384cd31c5e16c83bc",
+                    "label":"",
+                    "type":"tableCell",
+                    "styleType":"tableCell",
+                    "visible":true,
+                    "style":{
+                      "horizontalAlignment":"center",
+                      "verticalAlignment":"middle",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF},
+                      "size":{
+                        "width":100,
+                        "height":30}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"dddb5363b9e44e94832f4b9599f6d7c5",
+                        "label":"",
+                        "isContained":true,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "size":{
+                            "width":100,
+                            "height":30}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/销售单管理/u5.png"}},
+{
+                    "id":"46d7d4adcb7649438ce421a49ea85d18",
+                    "label":"",
+                    "type":"tableCell",
+                    "styleType":"tableCell",
+                    "visible":true,
+                    "style":{
+                      "horizontalAlignment":"center",
+                      "verticalAlignment":"middle",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF},
+                      "location":{
+                        "x":0,
+                        "y":30},
+                      "size":{
+                        "width":100,
+                        "height":30}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"38cd0cc4ff004b36b95bd20a1d190ca2",
+                        "label":"",
+                        "isContained":true,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "location":{
+                            "x":0,
+                            "y":30},
+                          "size":{
+                            "width":100,
+                            "height":30}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/销售单管理/u7.png"}}]}]},
+{
+            "id":"5a05e6e4b4764fe0a12894ecc3f0ac16",
+            "label":"box, transparent",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "location":{
+                "x":10,
+                "y":80},
+              "size":{
+                "width":1069,
+                "height":30}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"40e337be76c844919db41ac880510b35",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "location":{
+                    "x":10,
+                    "y":80},
+                  "size":{
+                    "width":1069,
+                    "height":30}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/销售单管理/box__transparent_u9.png"}},
+{
+            "id":"b79c45257cf5499e9bf91b529b29620b",
+            "label":"text",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontSize":"12px",
+              "horizontalAlignment":"left",
+              "verticalAlignment":"top",
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":10,
+                "y":85},
+              "size":{
+                "width":180,
+                "height":25},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"b86f986379c94b49b7e6e8a30d49d4ee",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontSize":"12px",
+                  "horizontalAlignment":"left",
+                  "verticalAlignment":"top",
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":10,
+                    "y":85},
+                  "size":{
+                    "width":180,
+                    "height":25},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"ade4a0777d334efb8eabb3f1f5ea5d11",
+            "label":"triangle, down",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "location":{
+                "x":200,
+                "y":91.5},
+              "size":{
+                "width":21,
+                "height":12}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"e610c1cbb0b845b6836d44d4e1f474bf",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "location":{
+                    "x":200,
+                    "y":91.5},
+                  "size":{
+                    "width":21,
+                    "height":12}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/销售单管理/triangle__down_u13.png"}},
+{
+            "id":"73415170e70449f2baf33527646d07eb",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":19,
+                "y":120},
+              "size":{
+                "width":141,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"297fb270e9024a2784cfee51fe866d2d",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":19,
+                    "y":120},
+                  "size":{
+                    "width":141,
+                    "height":40}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["73415170e70449f2baf33527646d07eb"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u15.png",
+              "selected~":"images/销售单管理/tab_u15_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u15_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u15.png"}},
+{
+            "id":"291149b5a9224237a0f3b1276bfe8715",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":25,
+                "y":127},
+              "size":{
+                "width":128,
+                "height":30},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"aa900fd3eaae4ef5ba09be1eff3084d3",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":25,
+                    "y":127},
+                  "size":{
+                    "width":128,
+                    "height":30},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["73415170e70449f2baf33527646d07eb"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"07d951d71d7e481abe4c66587d3df495",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":181,
+                "y":122},
+              "size":{
+                "width":129,
+                "height":37}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"081f4e4b849d4f77a7edfae18e8f8fe2",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":181,
+                    "y":122},
+                  "size":{
+                    "width":129,
+                    "height":37}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["07d951d71d7e481abe4c66587d3df495"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u19.png",
+              "selected~":"images/销售单管理/tab_u19_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u19_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u19.png"}},
+{
+            "id":"17325f223d37483a8e080570261f518a",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":187,
+                "y":129},
+              "size":{
+                "width":117,
+                "height":27},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"93911226402c4976ba97f211c298f0ae",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":187,
+                    "y":129},
+                  "size":{
+                    "width":117,
+                    "height":27},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["07d951d71d7e481abe4c66587d3df495"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"45885984c9ba4aab8210a1d8bcd3ea29",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":620,
+                "y":122},
+              "size":{
+                "width":120,
+                "height":35}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"a6611c1155b9416f867ab63c274ced46",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":620,
+                    "y":122},
+                  "size":{
+                    "width":120,
+                    "height":35}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["45885984c9ba4aab8210a1d8bcd3ea29"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u23.png",
+              "selected~":"images/销售单管理/tab_u23_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u23_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u23.png"}},
+{
+            "id":"05d0702886684421ba96d7ad6d46e373",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":625,
+                "y":128},
+              "size":{
+                "width":109,
+                "height":27},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"29db92c908dc4ef7ae4a8dd7319c2968",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":625,
+                    "y":128},
+                  "size":{
+                    "width":109,
+                    "height":27},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["45885984c9ba4aab8210a1d8bcd3ea29"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"17a1adcaae0a4a91822caa2b46ec9b36",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":330,
+                "y":125},
+              "size":{
+                "width":130,
+                "height":35}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"f8fbc1113312447d809b836c0ccbc606",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":330,
+                    "y":125},
+                  "size":{
+                    "width":130,
+                    "height":35}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["17a1adcaae0a4a91822caa2b46ec9b36"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u27.png",
+              "selected~":"images/销售单管理/tab_u27_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u27_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u27.png"}},
+{
+            "id":"0b32b15159d2419bbec69bc66853df21",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":335,
+                "y":131},
+              "size":{
+                "width":119,
+                "height":27},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"abce9b47e8e0438eaefb8bff7a2cba11",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":335,
+                    "y":131},
+                  "size":{
+                    "width":119,
+                    "height":27},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["17a1adcaae0a4a91822caa2b46ec9b36"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"a3172f198633455e9e83abc34681d33b",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":830,
+                "y":120},
+              "size":{
+                "width":140,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"8250dd756d7d4cc2a301fdebfec34cda",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":830,
+                    "y":120},
+                  "size":{
+                    "width":140,
+                    "height":40}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["a3172f198633455e9e83abc34681d33b"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u31.png",
+              "selected~":"images/销售单管理/tab_u31_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u31_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u31.png"}},
+{
+            "id":"34fb1ae499ad44e391ac0f15e9d14f47",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":836,
+                "y":128},
+              "size":{
+                "width":128,
+                "height":30},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"46c2fd64610f4f8f966b7407774edb63",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":836,
+                    "y":128},
+                  "size":{
+                    "width":128,
+                    "height":30},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["a3172f198633455e9e83abc34681d33b"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"fa1230fcfd554557b85388af4dcb9e41",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":464,
+                "y":126},
+              "size":{
+                "width":130,
+                "height":33}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"8ad93393b46f4851804e2b298b40c864",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":464,
+                    "y":126},
+                  "size":{
+                    "width":130,
+                    "height":33}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["fa1230fcfd554557b85388af4dcb9e41"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u35.png",
+              "selected~":"images/销售单管理/tab_u35_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u35_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u35.png"}},
+{
+            "id":"5ed10d965d8b447388844443e8ffc6ab",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":470,
+                "y":132},
+              "size":{
+                "width":119,
+                "height":25},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"009d37280d31411daa6202f2a96be584",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":470,
+                    "y":132},
+                  "size":{
+                    "width":119,
+                    "height":25},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["fa1230fcfd554557b85388af4dcb9e41"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}}]}}},
+  "objectPaths":{
+    "53e9dae3f35a44cdace166bcf71ef0bc":{
+      "scriptId":"u0",
+      "942bf5d5af6049a7aedb561d416fcb69":{
+        "scriptId":"u1"},
+      "cd35df1296214afd91f645986a5ad0e1":{
+        "scriptId":"u2"},
+      "48793141279747ff88361c03065f529c":{
+        "scriptId":"u3"},
+      "42a9d2f8d4914090a731268811398a64":{
+        "scriptId":"u4"},
+      "338eafd175434c3384cd31c5e16c83bc":{
+        "scriptId":"u5"},
+      "dddb5363b9e44e94832f4b9599f6d7c5":{
+        "scriptId":"u6"},
+      "46d7d4adcb7649438ce421a49ea85d18":{
+        "scriptId":"u7"},
+      "38cd0cc4ff004b36b95bd20a1d190ca2":{
+        "scriptId":"u8"},
+      "5a05e6e4b4764fe0a12894ecc3f0ac16":{
+        "scriptId":"u9"},
+      "40e337be76c844919db41ac880510b35":{
+        "scriptId":"u10"},
+      "b79c45257cf5499e9bf91b529b29620b":{
+        "scriptId":"u11"},
+      "b86f986379c94b49b7e6e8a30d49d4ee":{
+        "scriptId":"u12"},
+      "ade4a0777d334efb8eabb3f1f5ea5d11":{
+        "scriptId":"u13"},
+      "e610c1cbb0b845b6836d44d4e1f474bf":{
+        "scriptId":"u14"},
+      "73415170e70449f2baf33527646d07eb":{
+        "scriptId":"u15"},
+      "297fb270e9024a2784cfee51fe866d2d":{
+        "scriptId":"u16"},
+      "291149b5a9224237a0f3b1276bfe8715":{
+        "scriptId":"u17"},
+      "aa900fd3eaae4ef5ba09be1eff3084d3":{
+        "scriptId":"u18"},
+      "07d951d71d7e481abe4c66587d3df495":{
+        "scriptId":"u19"},
+      "081f4e4b849d4f77a7edfae18e8f8fe2":{
+        "scriptId":"u20"},
+      "17325f223d37483a8e080570261f518a":{
+        "scriptId":"u21"},
+      "93911226402c4976ba97f211c298f0ae":{
+        "scriptId":"u22"},
+      "45885984c9ba4aab8210a1d8bcd3ea29":{
+        "scriptId":"u23"},
+      "a6611c1155b9416f867ab63c274ced46":{
+        "scriptId":"u24"},
+      "05d0702886684421ba96d7ad6d46e373":{
+        "scriptId":"u25"},
+      "29db92c908dc4ef7ae4a8dd7319c2968":{
+        "scriptId":"u26"},
+      "17a1adcaae0a4a91822caa2b46ec9b36":{
+        "scriptId":"u27"},
+      "f8fbc1113312447d809b836c0ccbc606":{
+        "scriptId":"u28"},
+      "0b32b15159d2419bbec69bc66853df21":{
+        "scriptId":"u29"},
+      "abce9b47e8e0438eaefb8bff7a2cba11":{
+        "scriptId":"u30"},
+      "a3172f198633455e9e83abc34681d33b":{
+        "scriptId":"u31"},
+      "8250dd756d7d4cc2a301fdebfec34cda":{
+        "scriptId":"u32"},
+      "34fb1ae499ad44e391ac0f15e9d14f47":{
+        "scriptId":"u33"},
+      "46c2fd64610f4f8f966b7407774edb63":{
+        "scriptId":"u34"},
+      "fa1230fcfd554557b85388af4dcb9e41":{
+        "scriptId":"u35"},
+      "8ad93393b46f4851804e2b298b40c864":{
+        "scriptId":"u36"},
+      "5ed10d965d8b447388844443e8ffc6ab":{
+        "scriptId":"u37"},
+      "009d37280d31411daa6202f2a96be584":{
+        "scriptId":"u38"}},
+    "b2ddf7d3f71d4b16b272d70ce607e30d":{
+      "scriptId":"u39"},
+    "17b0f999732b4549bc3e2c38c33a7847":{
+      "scriptId":"u40"},
+    "1705abf92d654aa094083ebb55ddc97d":{
+      "scriptId":"u41"},
+    "9a2dfb1ee310484ba428d2b3e1d99d7d":{
+      "scriptId":"u42"},
+    "cf31b9965d844e7f8babc83e92443c9b":{
+      "scriptId":"u43"},
+    "5b4523edfdc24f82873a6dc52a40855f":{
+      "scriptId":"u44"},
+    "1a98b388ea144b73b4e6be71b69901d8":{
+      "scriptId":"u45"},
+    "efc88d20b1e64c599cb2eb8259b84b10":{
+      "scriptId":"u46"},
+    "893570af656a42d09595af3168175400":{
+      "scriptId":"u47"},
+    "c7ea25d669d94790b5b7c98a1ddd9766":{
+      "scriptId":"u48"},
+    "05a660b0034b4c11a167bfb3821dee67":{
+      "scriptId":"u49"},
+    "8419752ce06d4ca78dd9f438216b647d":{
+      "scriptId":"u50"},
+    "3e6661697154436886bbfce5b81a21a2":{
+      "scriptId":"u51"},
+    "ff1af7a5c2524aa5a333e3fa5e8be69f":{
+      "scriptId":"u52"},
+    "e77520132f3847e2a44aa1dd5b092e10":{
+      "scriptId":"u53"},
+    "f7806fb60c4347009c673c40617e6bf3":{
+      "scriptId":"u54"},
+    "b05518ae3f9340b2bd1ae09754c91d92":{
+      "scriptId":"u55"},
+    "2cacbd98929744009f0dee90be2c7f56":{
+      "scriptId":"u56"},
+    "e234d1ebc2c64b269432a958858cbd97":{
+      "scriptId":"u57"},
+    "66c8f613b878414ba812b336c883dfb3":{
+      "scriptId":"u58"},
+    "161dc0367c0c431fadc32b8180c87ed2":{
+      "scriptId":"u59"},
+    "d558c752735a46b4806917efaff40e78":{
+      "scriptId":"u60"},
+    "707268f814214f9e893e9beb0ada455c":{
+      "scriptId":"u61"},
+    "9cc7883bad5a4148900cc9084dbcff0c":{
+      "scriptId":"u62"},
+    "1b9b43b4bea340da99bde2b668845a05":{
+      "scriptId":"u63"},
+    "561265af4c8e4b68b3fe30cb13f59853":{
+      "scriptId":"u64"},
+    "42664213447b41b98408159a5e45ba87":{
+      "scriptId":"u65"},
+    "f942ad742adf485eb00ee79d9effef95":{
+      "scriptId":"u66"},
+    "001ca537d08a4461947eff048d3b3be1":{
+      "scriptId":"u67"},
+    "4d7a8649007a4a02a29a881e9296d55f":{
+      "scriptId":"u68"},
+    "6c9e65abf1be41bd8fab0796761dc56b":{
+      "scriptId":"u69"},
+    "c85c0fbd3ea84332ad70e9ca03430e94":{
+      "scriptId":"u70"},
+    "e2b969dffdaa47cf9fff43397da74d1e":{
+      "scriptId":"u71"},
+    "40dc1a1828e24887ba58d83c22cda23a":{
+      "scriptId":"u72"},
+    "2ef6578b074248b39429189af7f85cc2":{
+      "scriptId":"u73"},
+    "ff92cb6b9c784a14bb32c465395aadd9":{
+      "scriptId":"u74"},
+    "ce5d8b13830144118a78f715d097574d":{
+      "scriptId":"u75"},
+    "90dc84ab5abe4b5795154f3b59b890d8":{
+      "scriptId":"u76"},
+    "9f17bc0b05b84e0facefee5504ae548d":{
+      "scriptId":"u77"},
+    "bfb7fc3cb1654f0389b3fd2f7ac11153":{
+      "scriptId":"u78"},
+    "4009e031a97c4cf58e4edef19cb8f245":{
+      "scriptId":"u79"},
+    "750ee71936454fa294b7978ae0473ba8":{
+      "scriptId":"u80"},
+    "83c7f7ef1f8c41b4919925e221263031":{
+      "scriptId":"u81"},
+    "7a4ddc4e76c440f69fa1b505728e4ca4":{
+      "scriptId":"u82"},
+    "dbb65695c32a4d94a79082a4fff08498":{
+      "scriptId":"u83"},
+    "bd26b3f9427e4cf296e90f0a5de46982":{
+      "scriptId":"u84"},
+    "ff72b7de1ad24b3c84079e1fdb736fed":{
+      "scriptId":"u85"},
+    "40d03382894e4af8aa48d3fb3b01435c":{
+      "scriptId":"u86"},
+    "0d306bcc2e2f47e8b734d2cb3a3c3373":{
+      "scriptId":"u87"},
+    "8e208859fd514f80a8f06bc73b9096e8":{
+      "scriptId":"u88"},
+    "b9e1861cbdc94281b62bb0beb42aa3af":{
+      "scriptId":"u89"},
+    "0e870502e1fb49afada9900a16bc9aae":{
+      "scriptId":"u90"},
+    "387bc7de83f44821ba23a3a54ce3429c":{
+      "scriptId":"u91"},
+    "92ec548af8ea4dd480e16330c81e46ce":{
+      "scriptId":"u92"},
+    "b696a84d2210461e9b96db0a29f57e4d":{
+      "scriptId":"u93"},
+    "17714bc203c04713a83c8a18cebf6917":{
+      "scriptId":"u94"},
+    "c596361aaa2f4a9bbf132c0ac62d937e":{
+      "scriptId":"u95"},
+    "fa28a978042b4bec94691d888d86903b":{
+      "scriptId":"u96"},
+    "4e81178f6e484d3897887b18ab3a6a41":{
+      "scriptId":"u97"},
+    "a6f5195666984566aaa9c7acdf2aedff":{
+      "scriptId":"u98"},
+    "40c2663eb74c43f5a33a7107f5d83df9":{
+      "scriptId":"u99"},
+    "f800b7df91f143b091ff2242d80224a6":{
+      "scriptId":"u100"},
+    "d5e3aeedcdcd4619bed4e9af125183a7":{
+      "scriptId":"u101"},
+    "98728a806c2c4c0f9cd4a338785d8a0d":{
+      "scriptId":"u102"},
+    "2986048e380d4abdabffff15f49f69bc":{
+      "scriptId":"u103"},
+    "3ba7242eee104a1da896e94ab9b97655":{
+      "scriptId":"u104"},
+    "b1b87f3154be42ce9813f96a1d5b02cb":{
+      "scriptId":"u105"},
+    "35ec13d44937498ea92837d4a48c8058":{
+      "scriptId":"u106"},
+    "94217bd0d76f4cf59fc886e5eeadd878":{
+      "scriptId":"u107"},
+    "64f1597283df4e519798c25c6a4db442":{
+      "scriptId":"u108"},
+    "038af8f0610740639e49859163214fde":{
+      "scriptId":"u109"},
+    "892702e8f2ab4f82ab9ffd156c100907":{
+      "scriptId":"u110"},
+    "cbe659fd702d4d049fcd116c0099b160":{
+      "scriptId":"u111"},
+    "8c46e97ff25645d5be649c6d1127fa56":{
+      "scriptId":"u112"},
+    "1529e356d6f249c8a1e07cb5164c692c":{
+      "scriptId":"u113"},
+    "fd1205bb53914e4b99919bac4d7d2c79":{
+      "scriptId":"u114"},
+    "4479bf7708084535be5e6497d9eb8b7e":{
+      "scriptId":"u115"},
+    "9f8be39ce1894bd5be946069555f1d99":{
+      "scriptId":"u116"},
+    "b432e529aad641c183fda016865b2841":{
+      "scriptId":"u117"},
+    "69cfc88c437849b3aa8809462d5d9609":{
+      "scriptId":"u118"},
+    "c6d5642f27a943a79a45d551ab45e953":{
+      "scriptId":"u119"},
+    "5bdd836c2a1340cb8d3eae4709ed253f":{
+      "scriptId":"u120"},
+    "8fe3af20eaf3441bb914834c61318325":{
+      "scriptId":"u121"},
+    "a5c8e99f120244e3867e08137b2e1eea":{
+      "scriptId":"u122"},
+    "2718cf17732b44cc95575fc5847c89ce":{
+      "scriptId":"u123"},
+    "047e9580abaf4996a1dfbac9286c6805":{
+      "scriptId":"u124"},
+    "3004656f31964ccebb9a4f90ae41b1d3":{
+      "scriptId":"u125"},
+    "38cabfb0be5e4200932550be5bd7126b":{
+      "scriptId":"u126"},
+    "f260439bc4744605ba9f2c97b3902f55":{
+      "scriptId":"u127"},
+    "c68c0bd5cf9840b5a4a454922d9b617e":{
+      "scriptId":"u128"},
+    "cb2290309b214710ba80c073720cc4a9":{
+      "scriptId":"u129"},
+    "6118f90736274baca3414d8b170974a5":{
+      "scriptId":"u130"},
+    "0d008b5b3ce54297a33e40f302765a4a":{
+      "scriptId":"u131"},
+    "031abe57ede64eb9972492482a2371c4":{
+      "scriptId":"u132"},
+    "7f0b6fc037ea46c3a4229fbd881bb624":{
+      "scriptId":"u133"},
+    "6b7ccb873e8f4fb9b14d0a04793d1a24":{
+      "scriptId":"u134"},
+    "4713a3fe116b4e1bbbc7a2c122ecf5d5":{
+      "scriptId":"u135"},
+    "adcec890128b41b799302b6a4842ed56":{
+      "scriptId":"u136"},
+    "bfdf162e41ab4af48d3a21740cf26085":{
+      "scriptId":"u137"},
+    "0c1bbe6cbc4d4381b659bdac002f8cbf":{
+      "scriptId":"u138"},
+    "e2a2d84f733c47cfb9fa61008c7bc458":{
+      "scriptId":"u139"},
+    "5a0c53069f3c4d878ce3f660cf8fa228":{
+      "scriptId":"u140"},
+    "4cbbfd93f8fc4ce898dafde858d8ff43":{
+      "scriptId":"u141"},
+    "72d7067895394d39b20a75b3f2c5fd1c":{
+      "scriptId":"u142"},
+    "c53843e7880d4fceb260fbe754394447":{
+      "scriptId":"u143"},
+    "5f78f03d878d40c88216df482bec09a6":{
+      "scriptId":"u144"},
+    "8ddd9124bad74bb18c3a6da5f379d52f":{
+      "scriptId":"u145"},
+    "14e8d0818db149e39e1fbd3e0ec45927":{
+      "scriptId":"u146"},
+    "a5f96e61cec8415bac331928f96624c3":{
+      "scriptId":"u147"},
+    "806db59bf7534171b7c2d6cd7c371295":{
+      "scriptId":"u148"},
+    "556f6e54b8ba40c6bac2654ce19e6bce":{
+      "scriptId":"u149"},
+    "d19136151f28426da830269c6317f279":{
+      "scriptId":"u150"},
+    "5b64aabfa64f48e3b851866cd7acd7de":{
+      "scriptId":"u151"},
+    "5dfb335ddf4b4ec7a40922e3174acd8f":{
+      "scriptId":"u152"},
+    "d05b29ef422b4c9ead5dc8f181d84098":{
+      "scriptId":"u153"},
+    "c9e1351f10594998a14c419631019aa9":{
+      "scriptId":"u154"},
+    "1604635ef33047bdb237757cf854648d":{
+      "scriptId":"u155"},
+    "46af016d18084fe4aef8d525e348748c":{
+      "scriptId":"u156"},
+    "c4977dbe29fd4b3bba398d4f38868794":{
+      "scriptId":"u157"},
+    "70acd8d7f41349a7ba36e11c1cc44562":{
+      "scriptId":"u158"},
+    "2be947b26ca843f8a3bc8a56d3ebd78b":{
+      "scriptId":"u159"},
+    "c8bb7c4929954a59919002aa7a2fa0a9":{
+      "scriptId":"u160"},
+    "251b4aeaf4af45c789fd8fa1fb9aa5f9":{
+      "scriptId":"u161"},
+    "ba54de35ae334663b3ee075f93f25606":{
+      "scriptId":"u162"},
+    "a302b1b03ea846bd94e73b045f40e3fc":{
+      "scriptId":"u163"},
+    "09f708672fcf467fa2cba4813a8e2586":{
+      "scriptId":"u164"},
+    "007f878724c74e7b9d206416bd92b013":{
+      "scriptId":"u165"},
+    "a549b659d87e43239eb6d27155980993":{
+      "scriptId":"u166"},
+    "b0098c9763ec4f4288c73e23fd12e942":{
+      "scriptId":"u167"},
+    "6893aa022bcf4e678df6cb45d39ebf9e":{
+      "scriptId":"u168"},
+    "cde83e42706d48ada99d49be28a53666":{
+      "scriptId":"u169"},
+    "026c86bfa7f34b4b96d0a5bc7f2e677b":{
+      "scriptId":"u170"},
+    "03bea2d3b7044c36ad793f6b07f81aa3":{
+      "scriptId":"u171"},
+    "0fffba56aa894ae885d12c04e9312607":{
+      "scriptId":"u172"},
+    "2d634f932e034cbdba82bf21267c6d94":{
+      "scriptId":"u173"},
+    "ddcf727039a946eeb0700d93b06081c4":{
+      "scriptId":"u174"},
+    "dd2ea38ad0b549c282a4d336876295c5":{
+      "scriptId":"u175"},
+    "83f898bf1386466d904c56e5e46ea2bf":{
+      "scriptId":"u176"},
+    "d8fbedf223594b5389035a0123501236":{
+      "scriptId":"u177"},
+    "fc2e1947b57f4974bb0c82cdd5330a2b":{
+      "scriptId":"u178"},
+    "d73672cdbc3b45abb9e400f738c8f727":{
+      "scriptId":"u179"},
+    "84b656ac96be44b89a094fa6fe91c58a":{
+      "scriptId":"u180"},
+    "f0a2d664675e4767a9229fcb6f9b9ec3":{
+      "scriptId":"u181"},
+    "91b9c3973f074a0fb3eaf99d8f559fc3":{
+      "scriptId":"u182"},
+    "301e8c59813447498d73830ed0f2a9af":{
+      "scriptId":"u183"},
+    "2ab7d4806b8e4ce5a17d85c21c88bbd3":{
+      "scriptId":"u184"},
+    "0bee237f754f4e87a53c8919a5519050":{
+      "scriptId":"u185"},
+    "95ef9fef2fe54fce8b1a181277eced95":{
+      "scriptId":"u186"},
+    "1a3129d800ea4bbea5494eb9ef4e5555":{
+      "scriptId":"u187"},
+    "f0545b52fadc4183ab80546bc2fdf10e":{
+      "scriptId":"u188"},
+    "0c25968e3a964b33b562f9795f721096":{
+      "scriptId":"u189"},
+    "a2ed226be70540918d2c2f7411e5fd7c":{
+      "scriptId":"u190"},
+    "d5961fb5c8c045ccb5f9dc73068d46e1":{
+      "scriptId":"u191"},
+    "22a26af9f2fd4563806fd8d72d9b3efa":{
+      "scriptId":"u192"},
+    "0b19bc496ffb45a5918980f55c9e1066":{
+      "scriptId":"u193"},
+    "2481434765e54577a8759d4666ac1558":{
+      "scriptId":"u194"},
+    "8b1ccf01b8a84ad9a1bbe40a6475683d":{
+      "scriptId":"u195"},
+    "2d8a3e4f7b3740c3a1f7e86bc63120c1":{
+      "scriptId":"u196"},
+    "45f208bcbe404c719f3ff2f3dfadf2f1":{
+      "scriptId":"u197"},
+    "fb9deb09062c4ac3af0546c9c5dfa6de":{
+      "scriptId":"u198"},
+    "6208638c8db14e8fb57a106065ff045f":{
+      "scriptId":"u199"},
+    "06ee8ea3d84b4e219e768804cb353c77":{
+      "scriptId":"u200"},
+    "002575e1db1147c991d3ddf3eabc5587":{
+      "scriptId":"u201"},
+    "aece0de7792d4b79bb73921d8d8d0cdd":{
+      "scriptId":"u202"},
+    "aa915ab1ef2c4d4898679ab4cd626c83":{
+      "scriptId":"u203"},
+    "edec066c1ad94c6c85db9046faeb2fcf":{
+      "scriptId":"u204"},
+    "6761d4984fd94d03bdb58166e3ed0558":{
+      "scriptId":"u205"},
+    "e296458bcaee455cb173765060b3b0af":{
+      "scriptId":"u206"},
+    "33ce02cfa95c48dd816d24f8af844ac3":{
+      "scriptId":"u207"},
+    "7ede05564abf481989a7d46fbd3b3ed8":{
+      "scriptId":"u208"},
+    "ec6224a7f8674bce861eb7888b8496f5":{
+      "scriptId":"u209"},
+    "200fcb7d72474633bd30df13f21a014c":{
+      "scriptId":"u210"},
+    "9f8bd85b4818478a86568a294ad2bf86":{
+      "scriptId":"u211"},
+    "3b6340c20f1547548f525993e730dd99":{
+      "scriptId":"u212"},
+    "0ca0f17cb9044c66b8362ab34e633e57":{
+      "scriptId":"u213"},
+    "d94f79c8b4174d948f56611d4ac401ef":{
+      "scriptId":"u214"},
+    "431278be81bb48948899596f688182c8":{
+      "scriptId":"u215"},
+    "ac5fc8bfdb6b478e8260971bd4b577f6":{
+      "scriptId":"u216"},
+    "2442a57e6db5490eaa4e26d66a563446":{
+      "scriptId":"u217"},
+    "0b0a9860952a4361b0e3d141944ec636":{
+      "scriptId":"u218"},
+    "456c85a423cc4bc69cc0410f6de8d8ea":{
+      "scriptId":"u219"},
+    "5002b22fcb5842928bd513b51697f53a":{
+      "scriptId":"u220"},
+    "636bc4382b134ed6b4981e5cda54fc3d":{
+      "scriptId":"u221"},
+    "cfca88db90d64b1db2ca6290e9ccfa99":{
+      "scriptId":"u222"},
+    "ed7eeb35ca624eba872d93b0c29a1154":{
+      "scriptId":"u223"},
+    "e5fb894bb13447b7ab8ea86eb11ba7a7":{
+      "scriptId":"u224"},
+    "910c691cf18a42b9b83dd87715402acb":{
+      "scriptId":"u225"},
+    "a42423426bfe404d8c203276f90c99f2":{
+      "scriptId":"u226"},
+    "99ec68e8f5dc4454a497fd3c1c795ddf":{
+      "scriptId":"u227"},
+    "629e7f32caa140e69e5a08a84296202c":{
+      "scriptId":"u228"},
+    "ed5121715c524edf966d76bcb25c9202":{
+      "scriptId":"u229"},
+    "b728aab41acf466a979027ba03e0f986":{
+      "scriptId":"u230"},
+    "07db3ff89e7243a8ace2d0ef4235c621":{
+      "scriptId":"u231"},
+    "01bb965bd8ea486a9783a008142c24d9":{
+      "scriptId":"u232"},
+    "29b4f7c2339b49dd9dcdf2456ec9a351":{
+      "scriptId":"u233"},
+    "551dc3f320ee40c28049d4d1bd6fc2b9":{
+      "scriptId":"u234"},
+    "2d2f9de8265446c1a58432b8767f177a":{
+      "scriptId":"u235"},
+    "03ad11a906f244d5b88530de22d4eebc":{
+      "scriptId":"u236"},
+    "d5db5fd5c54942bfbe2d29b8d6d36eea":{
+      "scriptId":"u237"},
+    "ac9b5d0045234bd695fadc5c08248219":{
+      "scriptId":"u238"},
+    "db59ac633f224b2884f30cef35bae8d2":{
+      "scriptId":"u239"},
+    "6362e786af004807a42a0978890449ce":{
+      "scriptId":"u240"},
+    "9dcc7c2b8c8e4296b827b16571598fa8":{
+      "scriptId":"u241"},
+    "ecb41ec0116a4418b91c44bc260dc252":{
+      "scriptId":"u242"},
+    "c6573de3e1af44cb9876b0ee7a26d2d1":{
+      "scriptId":"u243"},
+    "16aceaae1da14637951cb95f005d28f7":{
+      "scriptId":"u244"},
+    "0f447d3d7c9a47f89b6a4264b05a33b0":{
+      "scriptId":"u245"},
+    "66a3fae865a04fa88e46b58ab91960b0":{
+      "scriptId":"u246"},
+    "ff951d0c458e46908d87877326983795":{
+      "scriptId":"u247"},
+    "b99398103cc6463181140a6e9fdf7338":{
+      "scriptId":"u248"},
+    "0cfc19d81bdc459095b0f86de3205388":{
+      "scriptId":"u249"},
+    "f0baa78b3ebf44e496d241322b303831":{
+      "scriptId":"u250"},
+    "7052c5a703cd4472bfda4beced5e0bdb":{
+      "scriptId":"u251"},
+    "b59c98e59c9746a6810515dfcfba3f77":{
+      "scriptId":"u252"},
+    "aec86ff6b5314dbb92ea25b8797d2937":{
+      "scriptId":"u253"},
+    "8b2e0fbcf892415aa43f2be7fa971f5b":{
+      "scriptId":"u254"},
+    "02bebf0a09ba42fdbe7d2950d5a284f6":{
+      "scriptId":"u255"},
+    "795f4e1d189f4bf8b5aa360218614372":{
+      "scriptId":"u256"},
+    "cfcf19e5787e4074a5e5eee22d5a846c":{
+      "scriptId":"u257"},
+    "2c8def07c4d64ff0bceeeeb26cef619b":{
+      "scriptId":"u258"},
+    "9262662b15a34b75a659f09406d7ee7c":{
+      "scriptId":"u259"},
+    "893671d69db34c26a0fac41e765134d0":{
+      "scriptId":"u260"},
+    "2d93055f80ea428cb01cd803e95f27ec":{
+      "scriptId":"u261"},
+    "d8ec91a13dec40e7b48eeaf9adae18d0":{
+      "scriptId":"u262"},
+    "7768e6584a7540308b6c8b066cd74e52":{
+      "scriptId":"u263"},
+    "55bc115ff8f54ed681798a460b2c3c19":{
+      "scriptId":"u264"},
+    "91f9e58053a0410bb5442c33f1692737":{
+      "scriptId":"u265"},
+    "90b107b86a33416b8ae866ac6abac05c":{
+      "scriptId":"u266"},
+    "be3fd4858ace4bb79f3eafa62f97fcf6":{
+      "scriptId":"u267"},
+    "9ded7095131b4158a64493098b2fc06d":{
+      "scriptId":"u268"},
+    "a54f38cfd0cd4e3a9c2d8dbd4130b7b2":{
+      "scriptId":"u269"},
+    "89fac90ca0644271be441fd442485d33":{
+      "scriptId":"u270"},
+    "163edef60ab64186aada71d035a49cdf":{
+      "scriptId":"u271"},
+    "a6f1bfa04117457cbf26b0475deb5766":{
+      "scriptId":"u272"},
+    "9620a5a93e0a43cb92a9157fdc711cad":{
+      "scriptId":"u273"},
+    "c2b3379d910e4024bb8fde8a43f2ae9a":{
+      "scriptId":"u274"},
+    "3255be06c6854a2492212b9486bfe49b":{
+      "scriptId":"u275"},
+    "fbbd1767763448b786857d9ff83f9327":{
+      "scriptId":"u276"},
+    "56db69a35ed94b6c9546153162268dd9":{
+      "scriptId":"u277"},
+    "b335b60d820a4611ad34d95fcae312a4":{
+      "scriptId":"u278"},
+    "7bbfa11096344eb09c506a4d9144e03a":{
+      "scriptId":"u279"},
+    "c7ebe3de10cb44ea9f3e9cda51442aab":{
+      "scriptId":"u280"},
+    "bd8d1785fbca46a58ea4accab55e9e4b":{
+      "scriptId":"u281"},
+    "59095b700c0347fd90d453f9ef06ff6b":{
+      "scriptId":"u282"},
+    "a42f65f796804d51a9840c60e078ab58":{
+      "scriptId":"u283"},
+    "985f3fef78754ce5b2993ad8f402112d":{
+      "scriptId":"u284"},
+    "032bb0add8414d30858b0aeb5ec39917":{
+      "scriptId":"u285"},
+    "1bee0536fc4c4da78c1e360c56f8e052":{
+      "scriptId":"u286"},
+    "eb3bb814f70b41c8afa7a4202f38d73c":{
+      "scriptId":"u287"},
+    "8dc8fc871be344d4b2d6fbd3c55749c0":{
+      "scriptId":"u288"},
+    "172157aff52c4b7c95bd4fc9c8bd9c63":{
+      "scriptId":"u289"},
+    "f37b2afdf8dd48e3a77aea03aa44df54":{
+      "scriptId":"u290"},
+    "be9fa2a7c8d145edaa81948b785a5835":{
+      "scriptId":"u291"},
+    "114898e26635406db5554e2d0a377045":{
+      "scriptId":"u292"},
+    "f3bd5fa7a17f44ea84c2fa167249e476":{
+      "scriptId":"u293"},
+    "174ce23b7a1b4972ad573de038012397":{
+      "scriptId":"u294"},
+    "7145b8ae19b246929d0fa624b04a11e9":{
+      "scriptId":"u295"},
+    "5c7b8c9e2ea146188d8544aa507aae32":{
+      "scriptId":"u296"},
+    "c436850a673a475a8918701261a91deb":{
+      "scriptId":"u297"},
+    "c696abe554994d59a980f214ca821ce1":{
+      "scriptId":"u298"},
+    "6652cbdcde7246a2b7bbe71cb9ad8376":{
+      "scriptId":"u299"},
+    "7933f4c0a2434ec7ad3ee00a4fe917b7":{
+      "scriptId":"u300"},
+    "5e022a1019074850a161e7a089f175c6":{
+      "scriptId":"u301"},
+    "72b6d934f3e746fab3011c513ed6275a":{
+      "scriptId":"u302"},
+    "cabb5a761c7643ffb4e0243a0b1703f3":{
+      "scriptId":"u303"},
+    "d58a76f0c92e450989b4e3021d1bc698":{
+      "scriptId":"u304"},
+    "6454c412bbcc4b7c96e7f8e14a9068aa":{
+      "scriptId":"u305"},
+    "d3f6a5e85ea04b0892e49be3f59f440e":{
+      "scriptId":"u306"},
+    "32233abeef264fb1b78414a84942436a":{
+      "scriptId":"u307"}}});

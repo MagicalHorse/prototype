@@ -1,0 +1,3621 @@
+﻿$axure.loadCurrentPage({
+  "url":"品牌管理.html",
+  "generationDate":new Date(1420876176166.99),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"DroplistOption",
+"ClickOnHandle"],
+  "page":{
+    "packageId":"f6c4a9e38b7746f3803b353e61166417",
+    "type":"Axure:Page",
+    "name":"品牌管理",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"03454d778c3649009d066a95269ebcb0",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"c10bb8382c994f4280bd68761b8aeb8c"},
+{
+          "id":"bb3b9eb74151422a9f851301574e319c",
+          "label":"box, transparent",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":14,
+              "y":170},
+            "size":{
+              "width":1060,
+              "height":61}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c9f7b4ffb25d474d92633a3fe16af1fe",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":14,
+                  "y":170},
+                "size":{
+                  "width":1060,
+                  "height":61}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/退货处理/box__transparent_u39.png"}},
+{
+          "id":"e94e1d598ff9492eba23fe8ffff42110",
+          "label":"triangle, up",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":790,
+              "y":153},
+            "size":{
+              "width":238,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ebde249bf0cc4c01b0a107b2d18973e7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":790,
+                  "y":153},
+                "size":{
+                  "width":238,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/退货处理/triangle__up_u41.png"}},
+{
+          "id":"c37c8e170e224e07b9c70da56f63ab40",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":36,
+              "y":192},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"353ba3f1b6634f6c858437819df7dc40",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":36,
+                  "y":192},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1ed54422249046a3924637a5a432af5a",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":146,
+              "y":192},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"18bcbc6cc5c84d81839e79cd28ef9e1f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":146,
+                  "y":192},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c10d8430c43b4437a9e0e164e83981d8",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":256,
+              "y":193},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"08c1f18a274b429fa352d5d000d54b7c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":256,
+                  "y":193},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e37c29a635c046038528d2444ec4d5d4",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":370,
+              "y":190},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d5d8501015ff40e48eb6a98b8558b721",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":370,
+                  "y":190},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b660659a2ee74e0d8d906e5c628bed43",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":484,
+              "y":192},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6d21868b6ff140b8bd8723543c624315",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":484,
+                  "y":192},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bd15f38c25a24193bf7596f0cf826a77",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":598,
+              "y":191},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"38e2ebdad85442f088d7238fca47c954",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":598,
+                  "y":191},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of Unidentified equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2790f4b3cad049dca2419ec49063f8b2",
+          "label":"box, transparent",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":12,
+              "y":241},
+            "size":{
+              "width":1067,
+              "height":59}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9db10136cc7e41e0be9a08423a3b743a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":12,
+                  "y":241},
+                "size":{
+                  "width":1067,
+                  "height":59}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/品牌管理/box__transparent_u55.png"}},
+{
+          "id":"14dc08b392b24995a34eed4185d96642",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":20,
+              "y":250},
+            "size":{
+              "width":110,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7e518f6728cd4cf3b49658a63423575c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":20,
+                  "y":250},
+                "size":{
+                  "width":110,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e22ca59b51bb405f944fd9983a0a1a43",
+          "label":"text field",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":90,
+              "y":250},
+            "size":{
+              "width":140,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6e14263413a04718b678e380460ead79",
+          "label":"checkbox label",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":271,
+              "y":254},
+            "size":{
+              "width":100,
+              "height":21},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"769cb2e437bc44528c90fd0d1d05cbf6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":271,
+                  "y":254},
+                "size":{
+                  "width":100,
+                  "height":21},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of checkbox equal to &quot;toggle&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["81491329aeb3430f99f98d2cccf6cd61"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"toggle",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "mouseOver~":"resources/images/transparent.gif"}},
+{
+          "id":"81491329aeb3430f99f98d2cccf6cd61",
+          "label":"checkbox",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":256,
+              "y":256},
+            "size":{
+              "width":17,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9736a8fa44ec49f8a5ec323aeb3a5a03",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":256,
+                  "y":256},
+                "size":{
+                  "width":17,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of checkbox equal to &quot;toggle&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["81491329aeb3430f99f98d2cccf6cd61"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"toggle",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/销售单管理/checkbox_u183.png",
+            "selected~":"images/销售单管理/checkbox_u183_selected.png",
+            "disabled~":"images/销售单管理/checkbox_u183_disabled.png"}},
+{
+          "id":"1193c740a4054203bd503a60c17fc689",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":26,
+              "y":275},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"43f61c8b76f94d3ba7f4f12fec54ad53",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":26,
+                  "y":275},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1193c740a4054203bd503a60c17fc689"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1193c740a4054203bd503a60c17fc689"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"7ec2772150a04ef79e087a23864b2b7d",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":26,
+              "y":279},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2c95461d545d48f68ba6cb4b3cbf3396",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":26,
+                  "y":279},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1193c740a4054203bd503a60c17fc689"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1193c740a4054203bd503a60c17fc689"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"50079359eeff41aaa1f6a560bd11f853",
+          "label":"table",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":10,
+              "y":335},
+            "size":{
+              "width":790,
+              "height":400}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"242f014419d44c968a223a6972f99d4a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c6322cbe993f47c8ae9c64ebdc29f741",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u69.png"}},
+{
+              "id":"30e065ed72184c6182da932ff5790594",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":0,
+                  "y":20},
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"86307db3689f4115a57ab676ca1aab4c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":0,
+                      "y":20},
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u69.png"}},
+{
+              "id":"10e9e091c1b84d42a73ae6610a09fffb",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":0,
+                  "y":40},
+                "size":{
+                  "width":158,
+                  "height":360},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f8ed8043b149461da041d7b8ebb85097",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":0,
+                      "y":40},
+                    "size":{
+                      "width":158,
+                      "height":360},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u89.png"}},
+{
+              "id":"8a174378ba314709adf91973b091432e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":158,
+                  "y":0},
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"cc0e68a99f0f4708bc09b6bac4af8d80",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":158,
+                      "y":0},
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u69.png"}},
+{
+              "id":"bec3349d815d4b3c863741cf414e6376",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":158,
+                  "y":20},
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"56829638cbca457fac62ad6d18c3b632",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":158,
+                      "y":20},
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u69.png"}},
+{
+              "id":"0be21a5dae9548acbe1d693d0d508447",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":158,
+                  "y":40},
+                "size":{
+                  "width":158,
+                  "height":360},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a3cb1486f58b4328ad2fabae4c63ad43",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":158,
+                      "y":40},
+                    "size":{
+                      "width":158,
+                      "height":360},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u89.png"}},
+{
+              "id":"f546dbe4445d4d6b9505557c34054d08",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":316,
+                  "y":0},
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"360778f9eb2f43a69452430ee1fa5550",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":316,
+                      "y":0},
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u69.png"}},
+{
+              "id":"498defcd79c44cc1b703a0f63490ce3a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":316,
+                  "y":20},
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"74d8d32e2f3147238cfc81a3ca76c8c8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":316,
+                      "y":20},
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u69.png"}},
+{
+              "id":"100838ecb55e4f239ff0a5d67d74e5ea",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":316,
+                  "y":40},
+                "size":{
+                  "width":158,
+                  "height":360},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6602bec9e02d46b6b0345b26a8ce8b37",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":316,
+                      "y":40},
+                    "size":{
+                      "width":158,
+                      "height":360},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u89.png"}},
+{
+              "id":"204d3fdcd3d1464eb4e07a9c9dcdd3e1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":474,
+                  "y":0},
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5ee0d301307241ee91f2a3947944afa8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":474,
+                      "y":0},
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u69.png"}},
+{
+              "id":"2ab6e7aa3d324b69a383691bb72fb85f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":474,
+                  "y":20},
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"38288d3c3608410a9fc6ce887c731d5c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":474,
+                      "y":20},
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u69.png"}},
+{
+              "id":"5c4a9e8987a24903b1ea0148b6657382",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":474,
+                  "y":40},
+                "size":{
+                  "width":158,
+                  "height":360},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"61ed688ab6034893bd2e8dd678b79b49",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":474,
+                      "y":40},
+                    "size":{
+                      "width":158,
+                      "height":360},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u89.png"}},
+{
+              "id":"b21e9d30a85c4cd4bca007801f1ad107",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":632,
+                  "y":0},
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"621b8287e5ba4417ada0d2ece3ef5804",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":632,
+                      "y":0},
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u77.png"}},
+{
+              "id":"8dbd3a9b33ae4ee085409e9dcd46f195",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":632,
+                  "y":20},
+                "size":{
+                  "width":158,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"fc10b3d87cc94ccfbc60cd2ff85de1ea",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":632,
+                      "y":20},
+                    "size":{
+                      "width":158,
+                      "height":20},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u77.png"}},
+{
+              "id":"1fb9d03751034455957f5b34c3d8b75e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":632,
+                  "y":40},
+                "size":{
+                  "width":158,
+                  "height":360},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"fed26582f49249a0aee5526bc2be5ff4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Scoder Hand Regular', 'Scoder Hand'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":632,
+                      "y":40},
+                    "size":{
+                      "width":158,
+                      "height":360},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/品牌管理/u97.png"}}]},
+{
+          "id":"36385e09273b4a3284f1bba53b30ed71",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":10,
+              "y":310},
+            "size":{
+              "width":110,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3c6ea4358a9c465fb84429bbc8a2385d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":10,
+                  "y":310},
+                "size":{
+                  "width":110,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"57ec7fea9de242fea4646785eff463da",
+          "label":"box, transparent",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":852,
+              "y":335},
+            "size":{
+              "width":138,
+              "height":400}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"89bb0315c16f489786ba446cd2776d97",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":852,
+                  "y":335},
+                "size":{
+                  "width":138,
+                  "height":400}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/品牌管理/box__transparent_u101.png"}},
+{
+          "id":"f278b889b240497cabc2fecc7e7e8d54",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":876,
+              "y":380},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8b446b96ea284b0d87b565ecd54557f5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":876,
+                  "y":380},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f278b889b240497cabc2fecc7e7e8d54"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f278b889b240497cabc2fecc7e7e8d54"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"0eb876d865164f7484fc24791a599e96",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":876,
+              "y":384},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"69e80429cea74497b4a74395b1750d43",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":876,
+                  "y":384},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f278b889b240497cabc2fecc7e7e8d54"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f278b889b240497cabc2fecc7e7e8d54"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a30f93b9107a412d95415e1e9ffffa95",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":876,
+              "y":445},
+            "size":{
+              "width":104,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"68c8050d0976498688f6ed3934b17d79",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":876,
+                  "y":445},
+                "size":{
+                  "width":104,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a30f93b9107a412d95415e1e9ffffa95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a30f93b9107a412d95415e1e9ffffa95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/销售单管理/button_u53.png",
+            "selected~":"images/销售单管理/button_u53_selected.png",
+            "mouseOver~":"images/销售单管理/button_u53_selected.png",
+            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
+            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
+{
+          "id":"fa95bee671f84d0abae2d293aa86d593",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":876,
+              "y":449},
+            "size":{
+              "width":100,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2061bbd6ba7f4b2989cc319f1f795997",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":876,
+                  "y":449},
+                "size":{
+                  "width":100,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a30f93b9107a412d95415e1e9ffffa95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a30f93b9107a412d95415e1e9ffffa95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+    "c10bb8382c994f4280bd68761b8aeb8c":{
+      "packageId":"c10bb8382c994f4280bd68761b8aeb8c",
+      "type":"Axure:Master",
+      "name":"erp",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"942bf5d5af6049a7aedb561d416fcb69",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":10,
+                "y":110},
+              "size":{
+                "width":1069,
+                "height":121}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"cd35df1296214afd91f645986a5ad0e1",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":10,
+                    "y":110},
+                  "size":{
+                    "width":1069,
+                    "height":121}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/销售单管理/u1.png"}},
+{
+            "id":"48793141279747ff88361c03065f529c",
+            "label":"",
+            "type":"menuObject",
+            "styleType":"menuObject",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":221,
+                "y":14},
+              "size":{
+                "width":100,
+                "height":60}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"42a9d2f8d4914090a731268811398a64",
+                "label":"",
+                "type":"table",
+                "styleType":"table",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":100,
+                    "height":60}},
+                "adaptiveStyles":{
+},
+                "objects":[{
+                    "id":"338eafd175434c3384cd31c5e16c83bc",
+                    "label":"",
+                    "type":"tableCell",
+                    "styleType":"tableCell",
+                    "visible":true,
+                    "style":{
+                      "horizontalAlignment":"center",
+                      "verticalAlignment":"middle",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF},
+                      "size":{
+                        "width":100,
+                        "height":30}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"dddb5363b9e44e94832f4b9599f6d7c5",
+                        "label":"",
+                        "isContained":true,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "size":{
+                            "width":100,
+                            "height":30}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/销售单管理/u5.png"}},
+{
+                    "id":"46d7d4adcb7649438ce421a49ea85d18",
+                    "label":"",
+                    "type":"tableCell",
+                    "styleType":"tableCell",
+                    "visible":true,
+                    "style":{
+                      "horizontalAlignment":"center",
+                      "verticalAlignment":"middle",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF},
+                      "location":{
+                        "x":0,
+                        "y":30},
+                      "size":{
+                        "width":100,
+                        "height":30}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"38cd0cc4ff004b36b95bd20a1d190ca2",
+                        "label":"",
+                        "isContained":true,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "location":{
+                            "x":0,
+                            "y":30},
+                          "size":{
+                            "width":100,
+                            "height":30}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/销售单管理/u7.png"}}]}]},
+{
+            "id":"5a05e6e4b4764fe0a12894ecc3f0ac16",
+            "label":"box, transparent",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "location":{
+                "x":10,
+                "y":80},
+              "size":{
+                "width":1069,
+                "height":30}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"40e337be76c844919db41ac880510b35",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "location":{
+                    "x":10,
+                    "y":80},
+                  "size":{
+                    "width":1069,
+                    "height":30}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/销售单管理/box__transparent_u9.png"}},
+{
+            "id":"b79c45257cf5499e9bf91b529b29620b",
+            "label":"text",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontSize":"12px",
+              "horizontalAlignment":"left",
+              "verticalAlignment":"top",
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":10,
+                "y":85},
+              "size":{
+                "width":180,
+                "height":25},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"b86f986379c94b49b7e6e8a30d49d4ee",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontSize":"12px",
+                  "horizontalAlignment":"left",
+                  "verticalAlignment":"top",
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":10,
+                    "y":85},
+                  "size":{
+                    "width":180,
+                    "height":25},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"ade4a0777d334efb8eabb3f1f5ea5d11",
+            "label":"triangle, down",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "location":{
+                "x":200,
+                "y":91.5},
+              "size":{
+                "width":21,
+                "height":12}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"e610c1cbb0b845b6836d44d4e1f474bf",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "location":{
+                    "x":200,
+                    "y":91.5},
+                  "size":{
+                    "width":21,
+                    "height":12}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/销售单管理/triangle__down_u13.png"}},
+{
+            "id":"73415170e70449f2baf33527646d07eb",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":19,
+                "y":120},
+              "size":{
+                "width":141,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"297fb270e9024a2784cfee51fe866d2d",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":19,
+                    "y":120},
+                  "size":{
+                    "width":141,
+                    "height":40}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["73415170e70449f2baf33527646d07eb"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u15.png",
+              "selected~":"images/销售单管理/tab_u15_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u15_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u15.png"}},
+{
+            "id":"291149b5a9224237a0f3b1276bfe8715",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":25,
+                "y":127},
+              "size":{
+                "width":128,
+                "height":30},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"aa900fd3eaae4ef5ba09be1eff3084d3",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":25,
+                    "y":127},
+                  "size":{
+                    "width":128,
+                    "height":30},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["73415170e70449f2baf33527646d07eb"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"07d951d71d7e481abe4c66587d3df495",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":181,
+                "y":122},
+              "size":{
+                "width":129,
+                "height":37}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"081f4e4b849d4f77a7edfae18e8f8fe2",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":181,
+                    "y":122},
+                  "size":{
+                    "width":129,
+                    "height":37}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["07d951d71d7e481abe4c66587d3df495"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u19.png",
+              "selected~":"images/销售单管理/tab_u19_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u19_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u19.png"}},
+{
+            "id":"17325f223d37483a8e080570261f518a",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":187,
+                "y":129},
+              "size":{
+                "width":117,
+                "height":27},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"93911226402c4976ba97f211c298f0ae",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":187,
+                    "y":129},
+                  "size":{
+                    "width":117,
+                    "height":27},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["07d951d71d7e481abe4c66587d3df495"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"45885984c9ba4aab8210a1d8bcd3ea29",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":620,
+                "y":122},
+              "size":{
+                "width":120,
+                "height":35}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"a6611c1155b9416f867ab63c274ced46",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":620,
+                    "y":122},
+                  "size":{
+                    "width":120,
+                    "height":35}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["45885984c9ba4aab8210a1d8bcd3ea29"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u23.png",
+              "selected~":"images/销售单管理/tab_u23_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u23_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u23.png"}},
+{
+            "id":"05d0702886684421ba96d7ad6d46e373",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":625,
+                "y":128},
+              "size":{
+                "width":109,
+                "height":27},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"29db92c908dc4ef7ae4a8dd7319c2968",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":625,
+                    "y":128},
+                  "size":{
+                    "width":109,
+                    "height":27},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["45885984c9ba4aab8210a1d8bcd3ea29"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"17a1adcaae0a4a91822caa2b46ec9b36",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":330,
+                "y":125},
+              "size":{
+                "width":130,
+                "height":35}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"f8fbc1113312447d809b836c0ccbc606",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":330,
+                    "y":125},
+                  "size":{
+                    "width":130,
+                    "height":35}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["17a1adcaae0a4a91822caa2b46ec9b36"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u27.png",
+              "selected~":"images/销售单管理/tab_u27_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u27_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u27.png"}},
+{
+            "id":"0b32b15159d2419bbec69bc66853df21",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":335,
+                "y":131},
+              "size":{
+                "width":119,
+                "height":27},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"abce9b47e8e0438eaefb8bff7a2cba11",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":335,
+                    "y":131},
+                  "size":{
+                    "width":119,
+                    "height":27},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["17a1adcaae0a4a91822caa2b46ec9b36"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"a3172f198633455e9e83abc34681d33b",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":830,
+                "y":120},
+              "size":{
+                "width":140,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"8250dd756d7d4cc2a301fdebfec34cda",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":830,
+                    "y":120},
+                  "size":{
+                    "width":140,
+                    "height":40}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["a3172f198633455e9e83abc34681d33b"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u31.png",
+              "selected~":"images/销售单管理/tab_u31_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u31_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u31.png"}},
+{
+            "id":"34fb1ae499ad44e391ac0f15e9d14f47",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":836,
+                "y":128},
+              "size":{
+                "width":128,
+                "height":30},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"46c2fd64610f4f8f966b7407774edb63",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":836,
+                    "y":128},
+                  "size":{
+                    "width":128,
+                    "height":30},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["a3172f198633455e9e83abc34681d33b"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}},
+{
+            "id":"fa1230fcfd554557b85388af4dcb9e41",
+            "label":"tab",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseDown":{
+},
+                "selected":{
+},
+                "disabled":{
+}},
+              "location":{
+                "x":464,
+                "y":126},
+              "size":{
+                "width":130,
+                "height":33}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"8ad93393b46f4851804e2b298b40c864",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseDown":{
+},
+                    "selected":{
+},
+                    "disabled":{
+}},
+                  "location":{
+                    "x":464,
+                    "y":126},
+                  "size":{
+                    "width":130,
+                    "height":33}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["fa1230fcfd554557b85388af4dcb9e41"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/销售单管理/tab_u35.png",
+              "selected~":"images/销售单管理/tab_u35_selected.png",
+              "mouseDown~":"images/销售单管理/tab_u35_mouseDown.png",
+              "disabled~":"images/销售单管理/tab_u35.png"}},
+{
+            "id":"5ed10d965d8b447388844443e8ffc6ab",
+            "label":"tab label",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "baseStyle":"627587b6038d43cca051c114ac41ad32",
+              "stateStyles":{
+                "mouseOver":{
+                  "underline":true,
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "location":{
+                "x":470,
+                "y":132},
+              "size":{
+                "width":119,
+                "height":25},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "cornerRadiusTopLeft":"1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"009d37280d31411daa6202f2a96be584",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "underline":true,
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "location":{
+                    "x":470,
+                    "y":132},
+                  "size":{
+                    "width":119,
+                    "height":25},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "cornerRadiusTopLeft":"1"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"setFunction",
+                        "description":"Set is selected of tab equal to &quot;toggle&quot;",
+                        "expr":{
+                          "exprType":"block",
+                          "subExprs":[{
+                              "exprType":"fcall",
+                              "functionName":"SetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["fa1230fcfd554557b85388af4dcb9e41"]},
+{
+                                  "exprType":"stringLiteral",
+                                  "value":"toggle",
+                                  "stos":[]}]}]}}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif"}}]}}},
+  "objectPaths":{
+    "03454d778c3649009d066a95269ebcb0":{
+      "scriptId":"u0",
+      "942bf5d5af6049a7aedb561d416fcb69":{
+        "scriptId":"u1"},
+      "cd35df1296214afd91f645986a5ad0e1":{
+        "scriptId":"u2"},
+      "48793141279747ff88361c03065f529c":{
+        "scriptId":"u3"},
+      "42a9d2f8d4914090a731268811398a64":{
+        "scriptId":"u4"},
+      "338eafd175434c3384cd31c5e16c83bc":{
+        "scriptId":"u5"},
+      "dddb5363b9e44e94832f4b9599f6d7c5":{
+        "scriptId":"u6"},
+      "46d7d4adcb7649438ce421a49ea85d18":{
+        "scriptId":"u7"},
+      "38cd0cc4ff004b36b95bd20a1d190ca2":{
+        "scriptId":"u8"},
+      "5a05e6e4b4764fe0a12894ecc3f0ac16":{
+        "scriptId":"u9"},
+      "40e337be76c844919db41ac880510b35":{
+        "scriptId":"u10"},
+      "b79c45257cf5499e9bf91b529b29620b":{
+        "scriptId":"u11"},
+      "b86f986379c94b49b7e6e8a30d49d4ee":{
+        "scriptId":"u12"},
+      "ade4a0777d334efb8eabb3f1f5ea5d11":{
+        "scriptId":"u13"},
+      "e610c1cbb0b845b6836d44d4e1f474bf":{
+        "scriptId":"u14"},
+      "73415170e70449f2baf33527646d07eb":{
+        "scriptId":"u15"},
+      "297fb270e9024a2784cfee51fe866d2d":{
+        "scriptId":"u16"},
+      "291149b5a9224237a0f3b1276bfe8715":{
+        "scriptId":"u17"},
+      "aa900fd3eaae4ef5ba09be1eff3084d3":{
+        "scriptId":"u18"},
+      "07d951d71d7e481abe4c66587d3df495":{
+        "scriptId":"u19"},
+      "081f4e4b849d4f77a7edfae18e8f8fe2":{
+        "scriptId":"u20"},
+      "17325f223d37483a8e080570261f518a":{
+        "scriptId":"u21"},
+      "93911226402c4976ba97f211c298f0ae":{
+        "scriptId":"u22"},
+      "45885984c9ba4aab8210a1d8bcd3ea29":{
+        "scriptId":"u23"},
+      "a6611c1155b9416f867ab63c274ced46":{
+        "scriptId":"u24"},
+      "05d0702886684421ba96d7ad6d46e373":{
+        "scriptId":"u25"},
+      "29db92c908dc4ef7ae4a8dd7319c2968":{
+        "scriptId":"u26"},
+      "17a1adcaae0a4a91822caa2b46ec9b36":{
+        "scriptId":"u27"},
+      "f8fbc1113312447d809b836c0ccbc606":{
+        "scriptId":"u28"},
+      "0b32b15159d2419bbec69bc66853df21":{
+        "scriptId":"u29"},
+      "abce9b47e8e0438eaefb8bff7a2cba11":{
+        "scriptId":"u30"},
+      "a3172f198633455e9e83abc34681d33b":{
+        "scriptId":"u31"},
+      "8250dd756d7d4cc2a301fdebfec34cda":{
+        "scriptId":"u32"},
+      "34fb1ae499ad44e391ac0f15e9d14f47":{
+        "scriptId":"u33"},
+      "46c2fd64610f4f8f966b7407774edb63":{
+        "scriptId":"u34"},
+      "fa1230fcfd554557b85388af4dcb9e41":{
+        "scriptId":"u35"},
+      "8ad93393b46f4851804e2b298b40c864":{
+        "scriptId":"u36"},
+      "5ed10d965d8b447388844443e8ffc6ab":{
+        "scriptId":"u37"},
+      "009d37280d31411daa6202f2a96be584":{
+        "scriptId":"u38"}},
+    "bb3b9eb74151422a9f851301574e319c":{
+      "scriptId":"u39"},
+    "c9f7b4ffb25d474d92633a3fe16af1fe":{
+      "scriptId":"u40"},
+    "e94e1d598ff9492eba23fe8ffff42110":{
+      "scriptId":"u41"},
+    "ebde249bf0cc4c01b0a107b2d18973e7":{
+      "scriptId":"u42"},
+    "c37c8e170e224e07b9c70da56f63ab40":{
+      "scriptId":"u43"},
+    "353ba3f1b6634f6c858437819df7dc40":{
+      "scriptId":"u44"},
+    "1ed54422249046a3924637a5a432af5a":{
+      "scriptId":"u45"},
+    "18bcbc6cc5c84d81839e79cd28ef9e1f":{
+      "scriptId":"u46"},
+    "c10d8430c43b4437a9e0e164e83981d8":{
+      "scriptId":"u47"},
+    "08c1f18a274b429fa352d5d000d54b7c":{
+      "scriptId":"u48"},
+    "e37c29a635c046038528d2444ec4d5d4":{
+      "scriptId":"u49"},
+    "d5d8501015ff40e48eb6a98b8558b721":{
+      "scriptId":"u50"},
+    "b660659a2ee74e0d8d906e5c628bed43":{
+      "scriptId":"u51"},
+    "6d21868b6ff140b8bd8723543c624315":{
+      "scriptId":"u52"},
+    "bd15f38c25a24193bf7596f0cf826a77":{
+      "scriptId":"u53"},
+    "38e2ebdad85442f088d7238fca47c954":{
+      "scriptId":"u54"},
+    "2790f4b3cad049dca2419ec49063f8b2":{
+      "scriptId":"u55"},
+    "9db10136cc7e41e0be9a08423a3b743a":{
+      "scriptId":"u56"},
+    "14dc08b392b24995a34eed4185d96642":{
+      "scriptId":"u57"},
+    "7e518f6728cd4cf3b49658a63423575c":{
+      "scriptId":"u58"},
+    "e22ca59b51bb405f944fd9983a0a1a43":{
+      "scriptId":"u59"},
+    "6e14263413a04718b678e380460ead79":{
+      "scriptId":"u60"},
+    "769cb2e437bc44528c90fd0d1d05cbf6":{
+      "scriptId":"u61"},
+    "81491329aeb3430f99f98d2cccf6cd61":{
+      "scriptId":"u62"},
+    "9736a8fa44ec49f8a5ec323aeb3a5a03":{
+      "scriptId":"u63"},
+    "1193c740a4054203bd503a60c17fc689":{
+      "scriptId":"u64"},
+    "43f61c8b76f94d3ba7f4f12fec54ad53":{
+      "scriptId":"u65"},
+    "7ec2772150a04ef79e087a23864b2b7d":{
+      "scriptId":"u66"},
+    "2c95461d545d48f68ba6cb4b3cbf3396":{
+      "scriptId":"u67"},
+    "50079359eeff41aaa1f6a560bd11f853":{
+      "scriptId":"u68"},
+    "242f014419d44c968a223a6972f99d4a":{
+      "scriptId":"u69"},
+    "c6322cbe993f47c8ae9c64ebdc29f741":{
+      "scriptId":"u70"},
+    "8a174378ba314709adf91973b091432e":{
+      "scriptId":"u71"},
+    "cc0e68a99f0f4708bc09b6bac4af8d80":{
+      "scriptId":"u72"},
+    "f546dbe4445d4d6b9505557c34054d08":{
+      "scriptId":"u73"},
+    "360778f9eb2f43a69452430ee1fa5550":{
+      "scriptId":"u74"},
+    "204d3fdcd3d1464eb4e07a9c9dcdd3e1":{
+      "scriptId":"u75"},
+    "5ee0d301307241ee91f2a3947944afa8":{
+      "scriptId":"u76"},
+    "b21e9d30a85c4cd4bca007801f1ad107":{
+      "scriptId":"u77"},
+    "621b8287e5ba4417ada0d2ece3ef5804":{
+      "scriptId":"u78"},
+    "30e065ed72184c6182da932ff5790594":{
+      "scriptId":"u79"},
+    "86307db3689f4115a57ab676ca1aab4c":{
+      "scriptId":"u80"},
+    "bec3349d815d4b3c863741cf414e6376":{
+      "scriptId":"u81"},
+    "56829638cbca457fac62ad6d18c3b632":{
+      "scriptId":"u82"},
+    "498defcd79c44cc1b703a0f63490ce3a":{
+      "scriptId":"u83"},
+    "74d8d32e2f3147238cfc81a3ca76c8c8":{
+      "scriptId":"u84"},
+    "2ab6e7aa3d324b69a383691bb72fb85f":{
+      "scriptId":"u85"},
+    "38288d3c3608410a9fc6ce887c731d5c":{
+      "scriptId":"u86"},
+    "8dbd3a9b33ae4ee085409e9dcd46f195":{
+      "scriptId":"u87"},
+    "fc10b3d87cc94ccfbc60cd2ff85de1ea":{
+      "scriptId":"u88"},
+    "10e9e091c1b84d42a73ae6610a09fffb":{
+      "scriptId":"u89"},
+    "f8ed8043b149461da041d7b8ebb85097":{
+      "scriptId":"u90"},
+    "0be21a5dae9548acbe1d693d0d508447":{
+      "scriptId":"u91"},
+    "a3cb1486f58b4328ad2fabae4c63ad43":{
+      "scriptId":"u92"},
+    "100838ecb55e4f239ff0a5d67d74e5ea":{
+      "scriptId":"u93"},
+    "6602bec9e02d46b6b0345b26a8ce8b37":{
+      "scriptId":"u94"},
+    "5c4a9e8987a24903b1ea0148b6657382":{
+      "scriptId":"u95"},
+    "61ed688ab6034893bd2e8dd678b79b49":{
+      "scriptId":"u96"},
+    "1fb9d03751034455957f5b34c3d8b75e":{
+      "scriptId":"u97"},
+    "fed26582f49249a0aee5526bc2be5ff4":{
+      "scriptId":"u98"},
+    "36385e09273b4a3284f1bba53b30ed71":{
+      "scriptId":"u99"},
+    "3c6ea4358a9c465fb84429bbc8a2385d":{
+      "scriptId":"u100"},
+    "57ec7fea9de242fea4646785eff463da":{
+      "scriptId":"u101"},
+    "89bb0315c16f489786ba446cd2776d97":{
+      "scriptId":"u102"},
+    "f278b889b240497cabc2fecc7e7e8d54":{
+      "scriptId":"u103"},
+    "8b446b96ea284b0d87b565ecd54557f5":{
+      "scriptId":"u104"},
+    "0eb876d865164f7484fc24791a599e96":{
+      "scriptId":"u105"},
+    "69e80429cea74497b4a74395b1750d43":{
+      "scriptId":"u106"},
+    "a30f93b9107a412d95415e1e9ffffa95":{
+      "scriptId":"u107"},
+    "68c8050d0976498688f6ed3934b17d79":{
+      "scriptId":"u108"},
+    "fa95bee671f84d0abae2d293aa86d593":{
+      "scriptId":"u109"},
+    "2061bbd6ba7f4b2989cc319f1f795997":{
+      "scriptId":"u110"}}});
