@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"coupons.html",
-  "generationDate":new Date(1420880726852.82),
+  "generationDate":new Date(1421046072630.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

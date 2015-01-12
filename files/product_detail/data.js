@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"product_detail.html",
-  "generationDate":new Date(1420880725821.07),
+  "generationDate":new Date(1421046071512.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -2335,6 +2335,110 @@
               "adaptiveStyles":{
 }}],
           "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0a5a09cea56244a4a8d583594fa1bec6",
+          "label":"star, small",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":363,
+              "y":450},
+            "size":{
+              "width":18,
+              "height":27}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5d673fd6e8f64bacb43a28855b993131",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":363,
+                  "y":450},
+                "size":{
+                  "width":18,
+                  "height":27}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/product_detail/star__small_u87.png",
+            "selected~":"images/group_1/star__small_u181.gif",
+            "disabled~":"images/group_1/star__small_u181_disabled.gif"}},
+{
+          "id":"b71b498f963040dbaaecce4d5c098f31",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":391,
+              "y":451},
+            "size":{
+              "width":64,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4ba8adc67b054623a907a4310dd6dc49",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":391,
+                  "y":451},
+                "size":{
+                  "width":64,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "d925059089d7407aa612fa9c86535ac3":{
@@ -2578,4 +2682,12 @@
     "6fc8769646f343658d8a5c42d56f1966":{
       "scriptId":"u85"},
     "d44822bfbdd740779f28c3cfc01274e3":{
-      "scriptId":"u86"}}});
+      "scriptId":"u86"},
+    "0a5a09cea56244a4a8d583594fa1bec6":{
+      "scriptId":"u87"},
+    "5d673fd6e8f64bacb43a28855b993131":{
+      "scriptId":"u88"},
+    "b71b498f963040dbaaecce4d5c098f31":{
+      "scriptId":"u89"},
+    "4ba8adc67b054623a907a4310dd6dc49":{
+      "scriptId":"u90"}}});

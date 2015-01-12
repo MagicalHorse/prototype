@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"fansgroup.html",
-  "generationDate":new Date(1420880727361.17),
+  "generationDate":new Date(1421046073085.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

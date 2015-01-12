@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"权限角色管理.html",
-  "generationDate":new Date(1420880724735.3),
+  "generationDate":new Date(1421046070091.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
