@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"品牌管理.html",
-  "generationDate":new Date(1421046069023.85),
+  "generationDate":new Date(1422322811268.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

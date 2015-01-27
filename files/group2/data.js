@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"group2.html",
-  "generationDate":new Date(1421046071358.5),
+  "generationDate":new Date(1422322813642.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

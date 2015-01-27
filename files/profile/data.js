@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"profile.html",
-  "generationDate":new Date(1421046072711.47),
+  "generationDate":new Date(1422322815177.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -554,7 +554,7 @@
 }},
             "location":{
               "x":140,
-              "y":302},
+              "y":306},
             "size":{
               "width":320,
               "height":25}},
@@ -580,7 +580,7 @@
 }},
                 "location":{
                   "x":140,
-                  "y":302},
+                  "y":306},
                 "size":{
                   "width":320,
                   "height":25}},
@@ -938,7 +938,7 @@
 }},
             "location":{
               "x":140,
-              "y":325},
+              "y":365},
             "size":{
               "width":320,
               "height":25}},
@@ -964,7 +964,7 @@
 }},
                 "location":{
                   "x":140,
-                  "y":325},
+                  "y":365},
                 "size":{
                   "width":320,
                   "height":25}},
@@ -1034,7 +1034,7 @@
             "horizontalAlignment":"center",
             "location":{
               "x":140,
-              "y":329},
+              "y":369},
             "size":{
               "width":308,
               "height":19},
@@ -1054,7 +1054,7 @@
                 "horizontalAlignment":"center",
                 "location":{
                   "x":140,
-                  "y":329},
+                  "y":369},
                 "size":{
                   "width":308,
                   "height":19},
@@ -1105,6 +1105,198 @@
                                 "isFocused":false,
                                 "isTarget":false,
                                 "value":["a98154b6e7994e908b5bfdbd22fc9f81"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"46cdaacf1d294f618ae2a5e2d646cb79",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":140,
+              "y":344},
+            "size":{
+              "width":320,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b8e7be2269334e6780639a5753009a9f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":140,
+                  "y":344},
+                "size":{
+                  "width":320,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["46cdaacf1d294f618ae2a5e2d646cb79"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["46cdaacf1d294f618ae2a5e2d646cb79"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/profile/button_u17.png",
+            "selected~":"images/profile/button_u17_selected.png",
+            "mouseOver~":"images/profile/button_u17_selected.png",
+            "mouseDown~":"images/profile/button_u17_mouseDown.png",
+            "disabled~":"images/profile/button_u17_disabled.png"}},
+{
+          "id":"328e5b06bd1c48ddbefaaa2d0fc13f4b",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":140,
+              "y":348},
+            "size":{
+              "width":308,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9b1c664a2da948dd900523f47c958b59",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":140,
+                  "y":348},
+                "size":{
+                  "width":308,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["46cdaacf1d294f618ae2a5e2d646cb79"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["46cdaacf1d294f618ae2a5e2d646cb79"]},
 {
                                 "exprType":"stringLiteral",
                                 "value":"false",
@@ -1245,4 +1437,12 @@
     "6ef4203271124324a0dd0a68e85e246a":{
       "scriptId":"u31"},
     "afc567c521404d74980ba896a845c9f1":{
-      "scriptId":"u32"}}});
+      "scriptId":"u32"},
+    "46cdaacf1d294f618ae2a5e2d646cb79":{
+      "scriptId":"u33"},
+    "b8e7be2269334e6780639a5753009a9f":{
+      "scriptId":"u34"},
+    "328e5b06bd1c48ddbefaaa2d0fc13f4b":{
+      "scriptId":"u35"},
+    "9b1c664a2da948dd900523f47c958b59":{
+      "scriptId":"u36"}}});

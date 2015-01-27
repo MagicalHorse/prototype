@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"fansgroupdetail.html",
-  "generationDate":new Date(1421046073146.76),
+  "generationDate":new Date(1422322815897.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -441,198 +441,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"afaa1fe11ac84419b7cbd0d4454a75f9",
-          "label":"button",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-            "stateStyles":{
-              "mouseOver":{
-},
-              "mouseDown":{
-},
-              "selected":{
-},
-              "disabled":{
-}},
-            "location":{
-              "x":190,
-              "y":680},
-            "size":{
-              "width":104,
-              "height":25}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"888c76c52d4b4633b3e79f843681f23d",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                "stateStyles":{
-                  "mouseOver":{
-},
-                  "mouseDown":{
-},
-                  "selected":{
-},
-                  "disabled":{
-}},
-                "location":{
-                  "x":190,
-                  "y":680},
-                "size":{
-                  "width":104,
-                  "height":25}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onMouseOver":{
-              "description":"OnMouseOver",
-              "cases":[{
-                  "description":"Case 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"setFunction",
-                      "description":"Set is selected of button equal to &quot;true&quot;",
-                      "expr":{
-                        "exprType":"block",
-                        "subExprs":[{
-                            "exprType":"fcall",
-                            "functionName":"SetCheckState",
-                            "arguments":[{
-                                "exprType":"pathLiteral",
-                                "isThis":false,
-                                "isFocused":false,
-                                "isTarget":false,
-                                "value":["afaa1fe11ac84419b7cbd0d4454a75f9"]},
-{
-                                "exprType":"stringLiteral",
-                                "value":"true",
-                                "stos":[]}]}]}}]}]},
-            "onMouseOut":{
-              "description":"OnMouseOut",
-              "cases":[{
-                  "description":"Case 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"setFunction",
-                      "description":"Set is selected of button equal to &quot;false&quot;",
-                      "expr":{
-                        "exprType":"block",
-                        "subExprs":[{
-                            "exprType":"fcall",
-                            "functionName":"SetCheckState",
-                            "arguments":[{
-                                "exprType":"pathLiteral",
-                                "isThis":false,
-                                "isFocused":false,
-                                "isTarget":false,
-                                "value":["afaa1fe11ac84419b7cbd0d4454a75f9"]},
-{
-                                "exprType":"stringLiteral",
-                                "value":"false",
-                                "stos":[]}]}]}}]}]}},
-          "images":{
-            "normal~":"images/销售单管理/button_u53.png",
-            "selected~":"images/销售单管理/button_u53_selected.png",
-            "mouseOver~":"images/销售单管理/button_u53_selected.png",
-            "mouseDown~":"images/销售单管理/button_u53_mouseDown.png",
-            "disabled~":"images/销售单管理/button_u53_disabled.png"}},
-{
-          "id":"acfc000a614b45ce9c7fbe0356429503",
-          "label":"button label",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"16px",
-            "horizontalAlignment":"center",
-            "location":{
-              "x":190,
-              "y":680},
-            "size":{
-              "width":100,
-              "height":19},
-            "rotation":"0",
-            "textRotation":"0"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"9c6396d1e6754ab4876e7f851f67bfbc",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"16px",
-                "horizontalAlignment":"center",
-                "location":{
-                  "x":190,
-                  "y":680},
-                "size":{
-                  "width":100,
-                  "height":19},
-                "rotation":"0",
-                "textRotation":"0"},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onMouseOver":{
-              "description":"OnMouseOver",
-              "cases":[{
-                  "description":"Case 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"setFunction",
-                      "description":"Set is selected of button equal to &quot;true&quot;",
-                      "expr":{
-                        "exprType":"block",
-                        "subExprs":[{
-                            "exprType":"fcall",
-                            "functionName":"SetCheckState",
-                            "arguments":[{
-                                "exprType":"pathLiteral",
-                                "isThis":false,
-                                "isFocused":false,
-                                "isTarget":false,
-                                "value":["afaa1fe11ac84419b7cbd0d4454a75f9"]},
-{
-                                "exprType":"stringLiteral",
-                                "value":"true",
-                                "stos":[]}]}]}}]}]},
-            "onMouseOut":{
-              "description":"OnMouseOut",
-              "cases":[{
-                  "description":"Case 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"setFunction",
-                      "description":"Set is selected of button equal to &quot;false&quot;",
-                      "expr":{
-                        "exprType":"block",
-                        "subExprs":[{
-                            "exprType":"fcall",
-                            "functionName":"SetCheckState",
-                            "arguments":[{
-                                "exprType":"pathLiteral",
-                                "isThis":false,
-                                "isFocused":false,
-                                "isTarget":false,
-                                "value":["afaa1fe11ac84419b7cbd0d4454a75f9"]},
-{
-                                "exprType":"stringLiteral",
-                                "value":"false",
-                                "stos":[]}]}]}}]}]}},
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"2f60fed433124ffcbb035a07e14053ec",
           "label":"text",
           "type":"buttonShape",
@@ -723,7 +531,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/fansgroupdetail/circle_u21.png"}},
+            "normal~":"images/fansgroupdetail/circle_u17.png"}},
 {
           "id":"60c3f02e381b41549431881ca25bd85e",
           "label":"text",
@@ -815,7 +623,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/fansgroupdetail/circle_u21.png"}},
+            "normal~":"images/fansgroupdetail/circle_u17.png"}},
 {
           "id":"58d482d21d80449fbc93231cb4a2b3d4",
           "label":"text",
@@ -907,7 +715,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/fansgroupdetail/circle_u21.png"}},
+            "normal~":"images/fansgroupdetail/circle_u17.png"}},
 {
           "id":"a0c9cca5a2f248c487981104990c9412",
           "label":"text",
@@ -999,7 +807,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/fansgroupdetail/circle_u21.png"}},
+            "normal~":"images/fansgroupdetail/circle_u17.png"}},
 {
           "id":"1b725c8b0d3f489a9dd897c0f663e583",
           "label":"text",
@@ -1091,7 +899,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/fansgroupdetail/circle_u21.png"}},
+            "normal~":"images/fansgroupdetail/circle_u17.png"}},
 {
           "id":"5a3b742ee15c4f26b075d0cdeda8f10e",
           "label":"text",
@@ -1183,7 +991,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/fansgroupdetail/circle_u21.png"}},
+            "normal~":"images/fansgroupdetail/circle_u17.png"}},
 {
           "id":"7b405973ef9c4b609775690af4cbacaa",
           "label":"text",
@@ -1397,67 +1205,59 @@
       "scriptId":"u13"},
     "499aef95bbc1484398e8f9ef12931478":{
       "scriptId":"u14"},
-    "afaa1fe11ac84419b7cbd0d4454a75f9":{
-      "scriptId":"u15"},
-    "888c76c52d4b4633b3e79f843681f23d":{
-      "scriptId":"u16"},
-    "acfc000a614b45ce9c7fbe0356429503":{
-      "scriptId":"u17"},
-    "9c6396d1e6754ab4876e7f851f67bfbc":{
-      "scriptId":"u18"},
     "2f60fed433124ffcbb035a07e14053ec":{
-      "scriptId":"u19"},
+      "scriptId":"u15"},
     "2dee4d1ec55d45448d05c79a30ac0c04":{
-      "scriptId":"u20"},
+      "scriptId":"u16"},
     "ace86581a68348d7b126405862ab376f":{
-      "scriptId":"u21"},
+      "scriptId":"u17"},
     "93c0030b52064ca9b923dc99b8b23aff":{
-      "scriptId":"u22"},
+      "scriptId":"u18"},
     "60c3f02e381b41549431881ca25bd85e":{
-      "scriptId":"u23"},
+      "scriptId":"u19"},
     "fec2692fcddc4de8a924a4a2e960af1d":{
-      "scriptId":"u24"},
+      "scriptId":"u20"},
     "caf889785f164706bed8cd75bba62493":{
-      "scriptId":"u25"},
+      "scriptId":"u21"},
     "2d641ec71b9249198b54c05e2c766279":{
-      "scriptId":"u26"},
+      "scriptId":"u22"},
     "58d482d21d80449fbc93231cb4a2b3d4":{
-      "scriptId":"u27"},
+      "scriptId":"u23"},
     "b273767b84dd48aeb355e49477f84be7":{
-      "scriptId":"u28"},
+      "scriptId":"u24"},
     "1e27ef6601e441a0b1d954024b57f0a0":{
-      "scriptId":"u29"},
+      "scriptId":"u25"},
     "5c6999a2b9b2405ba164a918615c5b35":{
-      "scriptId":"u30"},
+      "scriptId":"u26"},
     "a0c9cca5a2f248c487981104990c9412":{
-      "scriptId":"u31"},
+      "scriptId":"u27"},
     "2024d555dba04e428604fc2f5b069d85":{
-      "scriptId":"u32"},
+      "scriptId":"u28"},
     "9f420b6f7b9f4dcd98d763f3c1b8a642":{
-      "scriptId":"u33"},
+      "scriptId":"u29"},
     "b3b6196f61384e66b1840d0533c0f419":{
-      "scriptId":"u34"},
+      "scriptId":"u30"},
     "1b725c8b0d3f489a9dd897c0f663e583":{
-      "scriptId":"u35"},
+      "scriptId":"u31"},
     "dd66ce91f54148aaa20b2e54aedfe816":{
-      "scriptId":"u36"},
+      "scriptId":"u32"},
     "e49d0dab887149d39743176640b30aca":{
-      "scriptId":"u37"},
+      "scriptId":"u33"},
     "dcb12e000ae34862b2e2082f9f0c5a84":{
-      "scriptId":"u38"},
+      "scriptId":"u34"},
     "5a3b742ee15c4f26b075d0cdeda8f10e":{
-      "scriptId":"u39"},
+      "scriptId":"u35"},
     "93822bf6d3b24d82a24b046e73cf4b3c":{
-      "scriptId":"u40"},
+      "scriptId":"u36"},
     "68fc457efcac4a0fb0e77a24c9ba6273":{
-      "scriptId":"u41"},
+      "scriptId":"u37"},
     "6c3f8ab7e2624db4b70840ad3f198ca1":{
-      "scriptId":"u42"},
+      "scriptId":"u38"},
     "7b405973ef9c4b609775690af4cbacaa":{
-      "scriptId":"u43"},
+      "scriptId":"u39"},
     "54aca8751895435caf98babe2aa9d959":{
-      "scriptId":"u44"},
+      "scriptId":"u40"},
     "72848217b4634127a2bb8a1775c1752f":{
-      "scriptId":"u45"},
+      "scriptId":"u41"},
     "b81897977f784d83a9b7a39d250f2472":{
-      "scriptId":"u46"}}});
+      "scriptId":"u42"}}});

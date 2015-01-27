@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"chat.html",
-  "generationDate":new Date(1421046071984.95),
+  "generationDate":new Date(1422322814247.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

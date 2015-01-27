@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"fans.html",
-  "generationDate":new Date(1421046073187.81),
+  "generationDate":new Date(1422322815937.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -830,134 +830,6 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"3d0b1426ec7343c290508b8e264c1eeb",
-          "label":"button label",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"16px",
-            "horizontalAlignment":"center",
-            "location":{
-              "x":300,
-              "y":331},
-            "size":{
-              "width":100,
-              "height":19},
-            "rotation":"0",
-            "textRotation":"0"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"fbdeae5a8032476eb71530b273436703",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"16px",
-                "horizontalAlignment":"center",
-                "location":{
-                  "x":300,
-                  "y":331},
-                "size":{
-                  "width":100,
-                  "height":19},
-                "rotation":"0",
-                "textRotation":"0"},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onMouseOver":{
-              "description":"OnMouseOver",
-              "cases":[{
-                  "description":"Case 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"setFunction",
-                      "description":"Set is selected of Unidentified equal to &quot;true&quot;",
-                      "expr":{
-                        "exprType":"block",
-                        "subExprs":[]}}]}]},
-            "onMouseOut":{
-              "description":"OnMouseOut",
-              "cases":[{
-                  "description":"Case 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"setFunction",
-                      "description":"Set is selected of Unidentified equal to &quot;false&quot;",
-                      "expr":{
-                        "exprType":"block",
-                        "subExprs":[]}}]}]}},
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"a59a23df0eb84a1f9e1905ca382370a7",
-          "label":"button label",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"16px",
-            "horizontalAlignment":"center",
-            "location":{
-              "x":310,
-              "y":440},
-            "size":{
-              "width":100,
-              "height":19},
-            "rotation":"0",
-            "textRotation":"0"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"e9da52359ff7461ea50d33a303623850",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"16px",
-                "horizontalAlignment":"center",
-                "location":{
-                  "x":310,
-                  "y":440},
-                "size":{
-                  "width":100,
-                  "height":19},
-                "rotation":"0",
-                "textRotation":"0"},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onMouseOver":{
-              "description":"OnMouseOver",
-              "cases":[{
-                  "description":"Case 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"setFunction",
-                      "description":"Set is selected of Unidentified equal to &quot;true&quot;",
-                      "expr":{
-                        "exprType":"block",
-                        "subExprs":[]}}]}]},
-            "onMouseOut":{
-              "description":"OnMouseOut",
-              "cases":[{
-                  "description":"Case 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"setFunction",
-                      "description":"Set is selected of Unidentified equal to &quot;false&quot;",
-                      "expr":{
-                        "exprType":"block",
-                        "subExprs":[]}}]}]}},
-          "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "d925059089d7407aa612fa9c86535ac3":{
@@ -1093,12 +965,4 @@
     "d50eb1af18824e6ebca38c351cf2a16b":{
       "scriptId":"u31"},
     "f7d74a44b6e345fa9bd5563afc1cc67b":{
-      "scriptId":"u32"},
-    "3d0b1426ec7343c290508b8e264c1eeb":{
-      "scriptId":"u33"},
-    "fbdeae5a8032476eb71530b273436703":{
-      "scriptId":"u34"},
-    "a59a23df0eb84a1f9e1905ca382370a7":{
-      "scriptId":"u35"},
-    "e9da52359ff7461ea50d33a303623850":{
-      "scriptId":"u36"}}});
+      "scriptId":"u32"}}});

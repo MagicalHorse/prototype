@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"products.html",
-  "generationDate":new Date(1421046074060.44),
+  "generationDate":new Date(1422322817021.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -6208,7 +6208,7 @@
               "x":146,
               "y":680},
             "size":{
-              "width":194,
+              "width":304,
               "height":30},
             "borderWidth":"-1"},
           "adaptiveStyles":{
@@ -6234,7 +6234,7 @@
                   "x":146,
                   "y":680},
                 "size":{
-                  "width":194,
+                  "width":304,
                   "height":30},
                 "borderWidth":"-1"},
               "adaptiveStyles":{

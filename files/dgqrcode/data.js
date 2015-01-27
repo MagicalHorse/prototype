@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"dgqrcode.html",
-  "generationDate":new Date(1421046075284.82),
+  "generationDate":new Date(1422322818517.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

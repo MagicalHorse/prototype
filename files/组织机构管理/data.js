@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组织机构管理.html",
-  "generationDate":new Date(1421046070578.96),
+  "generationDate":new Date(1422322812702.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

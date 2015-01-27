@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"register.html",
-  "generationDate":new Date(1421046073324.89),
+  "generationDate":new Date(1422322816393.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -373,7 +373,23 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"toggle",
-                                "stos":[]}]}]}}]}]}},
+                                "stos":[]}]}]}},
+{
+                      "action":"setPanelState",
+                      "description":"Set (Dynamic Panel) to code",
+                      "panelsToStates":[{
+                          "panelPath":["016942accfc74caba15c39d3e39edf4a"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"fansgroup.html",
-  "generationDate":new Date(1421046073085.73),
+  "generationDate":new Date(1422322815812.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -1214,7 +1214,199 @@
           "tabbable":true,
           "images":{
             "normal~":"images/product2/triangle__right_u51.png",
-            "selected~":"images/product2/triangle__right_u51_selected.png"}}]}},
+            "selected~":"images/product2/triangle__right_u51_selected.png"}},
+{
+          "id":"64cfc77dc3ec4c63ae4adc3e03c4a564",
+          "label":"button",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+},
+              "mouseDown":{
+},
+              "selected":{
+},
+              "disabled":{
+}},
+            "location":{
+              "x":480,
+              "y":637},
+            "size":{
+              "width":350,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7f8f25a5c5994e0988623316ed9f3ecf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+},
+                  "mouseDown":{
+},
+                  "selected":{
+},
+                  "disabled":{
+}},
+                "location":{
+                  "x":480,
+                  "y":637},
+                "size":{
+                  "width":350,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["64cfc77dc3ec4c63ae4adc3e03c4a564"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["64cfc77dc3ec4c63ae4adc3e03c4a564"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"images/fansgroup/button_u45.png",
+            "selected~":"images/fansgroup/button_u45_selected.png",
+            "mouseOver~":"images/fansgroup/button_u45_selected.png",
+            "mouseDown~":"images/fansgroup/button_u45_mouseDown.png",
+            "disabled~":"images/fansgroup/button_u45_disabled.png"}},
+{
+          "id":"768daf27b71a45559170ff552f471150",
+          "label":"button label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":480,
+              "y":641},
+            "size":{
+              "width":337,
+              "height":19},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"72f68a0b0dbb49fd8d7b70860c4f509a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":480,
+                  "y":641},
+                "size":{
+                  "width":337,
+                  "height":19},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["64cfc77dc3ec4c63ae4adc3e03c4a564"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["64cfc77dc3ec4c63ae4adc3e03c4a564"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "d925059089d7407aa612fa9c86535ac3":{
       "packageId":"d925059089d7407aa612fa9c86535ac3",
@@ -1373,4 +1565,12 @@
     "9504910800ea4541a5143c0df5bfebf1":{
       "scriptId":"u43"},
     "bb250281d6434cc09283b029ca81de34":{
-      "scriptId":"u44"}}});
+      "scriptId":"u44"},
+    "64cfc77dc3ec4c63ae4adc3e03c4a564":{
+      "scriptId":"u45"},
+    "7f8f25a5c5994e0988623316ed9f3ecf":{
+      "scriptId":"u46"},
+    "768daf27b71a45559170ff552f471150":{
+      "scriptId":"u47"},
+    "72f68a0b0dbb49fd8d7b70860c4f509a":{
+      "scriptId":"u48"}}});

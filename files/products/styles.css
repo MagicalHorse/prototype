@@ -2215,14 +2215,14 @@
   position:absolute;
   left:146px;
   top:680px;
-  width:194px;
+  width:304px;
   height:30px;
 }
 #u159_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:194px;
+  width:304px;
   height:30px;
 }
 #u159_img.selected {
@@ -2245,7 +2245,7 @@
   position:absolute;
   left:2px;
   top:7px;
-  width:190px;
+  width:300px;
   visibility:hidden;
   word-wrap:break-word;
 }

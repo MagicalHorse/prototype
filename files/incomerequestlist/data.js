@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"incomerequestlist.html",
-  "generationDate":new Date(1421046075110.7),
+  "generationDate":new Date(1422322818332.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -1758,7 +1758,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/incomerequestlist/box__transparent_u60.png"}},
+                    "normal~":"images/大洋/box__transparent_u35.png"}},
 {
                   "id":"c1f5ba4a9ed34bc7a677d107b0e90aa5",
                   "label":"text",
@@ -2154,7 +2154,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/incomerequestlist/box__transparent_u60.png"}},
+                    "normal~":"images/大洋/box__transparent_u35.png"}},
 {
                   "id":"69aa8d6a43b04f729035db6237d154a5",
                   "label":"text",
@@ -2550,7 +2550,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/incomerequestlist/box__transparent_u60.png"}},
+                    "normal~":"images/大洋/box__transparent_u35.png"}},
 {
                   "id":"45ec30d83e1f47c4a48121877a8e1bbe",
                   "label":"text",
@@ -2950,7 +2950,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/incomerequestlist/box__transparent_u60.png"}},
+                    "normal~":"images/大洋/box__transparent_u35.png"}},
 {
                   "id":"bb8ad17e2b8949ff8ea53482d2dfb8f0",
                   "label":"text",
@@ -3346,7 +3346,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/incomerequestlist/box__transparent_u60.png"}},
+                    "normal~":"images/大洋/box__transparent_u35.png"}},
 {
                   "id":"e923f7c5113b4496a4a529866659150d",
                   "label":"text",
@@ -3742,7 +3742,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/incomerequestlist/box__transparent_u60.png"}},
+                    "normal~":"images/大洋/box__transparent_u35.png"}},
 {
                   "id":"ac90971fa1de46b5a8621041db149602",
                   "label":"text",

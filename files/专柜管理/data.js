@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"专柜管理.html",
-  "generationDate":new Date(1421046069555.22),
+  "generationDate":new Date(1422322811806.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

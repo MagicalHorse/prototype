@@ -171,7 +171,23 @@
 {
             "pageName":"fans",
             "type":"Wireframe",
-            "url":"fans.html"}]},
+            "url":"fans.html"},
+{
+            "pageName":"profile_edit",
+            "type":"Wireframe",
+            "url":"profile_edit.html"},
+{
+            "pageName":"DG_Home_Quanzi",
+            "type":"Wireframe",
+            "url":"dg_home_quanzi.html"},
+{
+            "pageName":"退款申请",
+            "type":"Wireframe",
+            "url":"退款申请.html"},
+{
+            "pageName":"大洋",
+            "type":"Wireframe",
+            "url":"大洋.html"}]},
 {
         "pageName":"DaoGou",
         "type":"Folder",
@@ -247,7 +263,11 @@
 {
             "pageName":"messages",
             "type":"Wireframe",
-            "url":"messages.html"}]}]},
+            "url":"messages.html"},
+{
+            "pageName":"profile_edit",
+            "type":"Wireframe",
+            "url":"profile_edit_1.html"}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "droplistoption":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"createorder.html",
-  "generationDate":new Date(1421046072917.62),
+  "generationDate":new Date(1422322815505.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -673,10 +673,10 @@
             "baseStyle":"627587b6038d43cca051c114ac41ad32",
             "location":{
               "x":170,
-              "y":433},
+              "y":423},
             "size":{
               "width":270,
-              "height":47}},
+              "height":57}},
           "adaptiveStyles":{
 }},
 {
@@ -1338,10 +1338,10 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":170,
-              "y":630},
+              "x":180,
+              "y":640},
             "size":{
-              "width":280,
+              "width":270,
               "height":25},
             "borderWidth":"-1",
             "borderFill":{
@@ -1366,10 +1366,10 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":170,
-                  "y":630},
+                  "x":180,
+                  "y":640},
                 "size":{
-                  "width":280,
+                  "width":270,
                   "height":25},
                 "borderWidth":"-1",
                 "borderFill":{
@@ -1763,7 +1763,327 @@
                                 "value":"false",
                                 "stos":[]}]}]}}]}]}},
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5d6baff2105f4ffc8895c4bfea11bc5b",
+          "label":"text",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":177,
+              "y":625},
+            "size":{
+              "width":263,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"109a55be76c94ef7a5dc0b8c3d584ee3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":177,
+                  "y":625},
+                "size":{
+                  "width":263,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"482d30f3cff746d984570d27a318344b",
+          "label":"box, transparent",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":510,
+              "y":600},
+            "size":{
+              "width":234,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8bc975a52dd840d4b0d71d16d63dfec5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":510,
+                  "y":600},
+                "size":{
+                  "width":234,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/createorder/box__transparent_u61.png"}},
+{
+          "id":"948651df2ab244e2935ec503b8ac1749",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":520,
+              "y":615.5},
+            "size":{
+              "width":19,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e79e368d26a94ad5bf49fcc608a13504",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":520,
+                  "y":615.5},
+                "size":{
+                  "width":19,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/包裹管理/u178.png"}},
+{
+          "id":"46023f3ce7be40c2bc134216a1541682",
+          "label":"checkbox",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":522,
+              "y":615.5},
+            "size":{
+              "width":13,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"43e7ce6160fa46e1b7aa2e73a86f7a94",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":522,
+                  "y":615.5},
+                "size":{
+                  "width":13,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"bc44e33bf264491981c8468a3f4feeaa",
+          "label":"checkbox label",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"12px",
+            "horizontalAlignment":"left",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "stateStyles":{
+              "mouseOver":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":540,
+              "y":614},
+            "size":{
+              "width":100,
+              "height":21},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1109743436954eeaa3f25366de55acde",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"12px",
+                "horizontalAlignment":"left",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "stateStyles":{
+                  "mouseOver":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":540,
+                  "y":614},
+                "size":{
+                  "width":100,
+                  "height":21},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"check<br> (If is selected of checkbox equals false)",
+                  "isNewIfGroup":true,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["46023f3ce7be40c2bc134216a1541682"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":false}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of checkbox equal to true",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["46023f3ce7be40c2bc134216a1541682"]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"Case 1<br> (Else If is selected of checkbox equals true)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["46023f3ce7be40c2bc134216a1541682"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":true}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set is selected of checkbox equal to false",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["46023f3ce7be40c2bc134216a1541682"]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":false}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "mouseOver~":"resources/images/transparent.gif"}},
+{
+          "id":"0061b83748574ba5a7aa2be6fe564ab7",
+          "label":"text field",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":620,
+              "y":612},
+            "size":{
+              "width":120,
+              "height":25}},
+          "adaptiveStyles":{
+}}]}},
   "masters":{
     "d925059089d7407aa612fa9c86535ac3":{
       "packageId":"d925059089d7407aa612fa9c86535ac3",
@@ -1950,4 +2270,26 @@
     "266cbb26ea6b43798e304ec233fd2d7f":{
       "scriptId":"u57"},
     "b0af272967804f86ad9b82b047e4a35d":{
-      "scriptId":"u58"}}});
+      "scriptId":"u58"},
+    "5d6baff2105f4ffc8895c4bfea11bc5b":{
+      "scriptId":"u59"},
+    "109a55be76c94ef7a5dc0b8c3d584ee3":{
+      "scriptId":"u60"},
+    "482d30f3cff746d984570d27a318344b":{
+      "scriptId":"u61"},
+    "8bc975a52dd840d4b0d71d16d63dfec5":{
+      "scriptId":"u62"},
+    "948651df2ab244e2935ec503b8ac1749":{
+      "scriptId":"u63"},
+    "e79e368d26a94ad5bf49fcc608a13504":{
+      "scriptId":"u64"},
+    "46023f3ce7be40c2bc134216a1541682":{
+      "scriptId":"u65"},
+    "43e7ce6160fa46e1b7aa2e73a86f7a94":{
+      "scriptId":"u66"},
+    "bc44e33bf264491981c8468a3f4feeaa":{
+      "scriptId":"u67"},
+    "1109743436954eeaa3f25366de55acde":{
+      "scriptId":"u68"},
+    "0061b83748574ba5a7aa2be6fe564ab7":{
+      "scriptId":"u69"}}});
