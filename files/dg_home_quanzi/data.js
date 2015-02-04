@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"dg_home_quanzi.html",
-  "generationDate":new Date(1422322816096.14),
+  "generationDate":new Date(1423024883119.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"dg_home2.html",
-  "generationDate":new Date(1422322816602.5),
+  "generationDate":new Date(1423024883540.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

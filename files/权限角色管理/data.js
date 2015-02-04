@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"权限角色管理.html",
-  "generationDate":new Date(1422322812257.43),
+  "generationDate":new Date(1423024879928.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -1953,7 +1953,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/收银对账-财务/box__transparent_u167.png"}},
+            "normal~":"images/权限角色管理/box__transparent_u119.png"}},
 {
           "id":"bde8379adde5463ab78cac977a08d277",
           "label":"button",

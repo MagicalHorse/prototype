@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"usercenter.html",
-  "generationDate":new Date(1422322814394.94),
+  "generationDate":new Date(1423024881769.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

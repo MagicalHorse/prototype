@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"退款申请.html",
-  "generationDate":new Date(1422322816155.17),
+  "generationDate":new Date(1423024883158.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -76,7 +76,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/收银对账-财务/box__transparent_u167.png"}},
+            "normal~":"images/权限角色管理/box__transparent_u119.png"}},
 {
           "id":"1e1f35291a674b778b12644fb07b3173",
           "label":"text",

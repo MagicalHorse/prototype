@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"收银对账-财务.html",
-  "generationDate":new Date(1422322810164.94),
+  "generationDate":new Date(1423024877909.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
@@ -1304,7 +1304,7 @@
               "y":405},
             "size":{
               "width":798,
-              "height":76}},
+              "height":79}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1358,7 +1358,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -1379,14 +1379,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"cdef3fcc8b504e648d2c7ee8816540ae",
               "label":"",
@@ -1398,7 +1398,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":0,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -1419,7 +1419,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":0,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -1487,7 +1487,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -1508,14 +1508,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"1d63a721fad5486fbf0d9200e0474418",
               "label":"",
@@ -1527,7 +1527,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":57,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -1548,7 +1548,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":57,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -1616,7 +1616,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -1637,14 +1637,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"2de944810b2047c3a71bc82476abb727",
               "label":"",
@@ -1656,7 +1656,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":114,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -1677,7 +1677,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":114,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -1745,7 +1745,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -1766,14 +1766,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"c1709ac523cc467687d953947108e376",
               "label":"",
@@ -1785,7 +1785,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":171,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -1806,7 +1806,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":171,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -1874,7 +1874,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -1895,14 +1895,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"67aa5af4ac994b31a66455c0e6882e76",
               "label":"",
@@ -1914,7 +1914,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":228,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -1935,7 +1935,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":228,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -2003,7 +2003,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -2024,14 +2024,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"cc308db5a06b48d1975beee50c4f88d5",
               "label":"",
@@ -2043,7 +2043,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":285,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -2064,7 +2064,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":285,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -2132,7 +2132,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -2153,14 +2153,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"b6c4a7783073487493b6909523776517",
               "label":"",
@@ -2172,7 +2172,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":342,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -2193,7 +2193,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":342,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -2261,7 +2261,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -2282,14 +2282,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"f283405314cf4bb780a9c1111d69899a",
               "label":"",
@@ -2301,7 +2301,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":399,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -2322,7 +2322,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":399,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -2390,7 +2390,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -2411,14 +2411,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"492351473944445f852d327fcf4cc795",
               "label":"",
@@ -2430,7 +2430,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":456,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -2451,7 +2451,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":456,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -2519,7 +2519,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -2540,14 +2540,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"57fb880b5df9471bb091ec6b27e89409",
               "label":"",
@@ -2559,7 +2559,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":513,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -2580,7 +2580,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":513,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -2648,7 +2648,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -2669,14 +2669,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"40f67fd4bb034cafa39e6fa72b92df56",
               "label":"",
@@ -2688,7 +2688,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":570,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -2709,7 +2709,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":570,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -2777,7 +2777,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -2798,14 +2798,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"b76ac41e0b0c4b0f80b3d78598aa9d97",
               "label":"",
@@ -2817,7 +2817,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":627,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -2838,7 +2838,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":627,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -2906,7 +2906,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -2927,14 +2927,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/申请退货/u118.png"}},
+                "normal~":"images/收银对账-财务/u111.png"}},
 {
               "id":"6e48c8ec4ba145b4a655f37c159b6cca",
               "label":"",
@@ -2946,7 +2946,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":684,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -2967,7 +2967,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":684,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -3035,7 +3035,7 @@
                   "y":36},
                 "size":{
                   "width":57,
-                  "height":20},
+                  "height":23},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF666666}},
@@ -3056,14 +3056,14 @@
                       "y":36},
                     "size":{
                       "width":57,
-                      "height":20},
+                      "height":23},
                     "borderFill":{
                       "fillType":"solid",
                       "color":0xFF666666}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/退货处理/u259.png"}},
+                "normal~":"images/收银对账-财务/u137.png"}},
 {
               "id":"fe0746ed9729411894f4105db68b97c3",
               "label":"",
@@ -3075,7 +3075,7 @@
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":741,
-                  "y":56},
+                  "y":59},
                 "size":{
                   "width":57,
                   "height":20},
@@ -3096,7 +3096,7 @@
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
                       "x":741,
-                      "y":56},
+                      "y":59},
                     "size":{
                       "width":57,
                       "height":20},
@@ -3116,10 +3116,10 @@
           "style":{
             "baseStyle":"627587b6038d43cca051c114ac41ad32",
             "location":{
-              "x":840,
+              "x":900,
               "y":400},
             "size":{
-              "width":234,
+              "width":174,
               "height":227}},
           "adaptiveStyles":{
 },
@@ -3133,10 +3133,10 @@
               "style":{
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
-                  "x":840,
+                  "x":900,
                   "y":400},
                 "size":{
-                  "width":234,
+                  "width":174,
                   "height":227}},
               "adaptiveStyles":{
 }}],
@@ -3160,8 +3160,8 @@
               "disabled":{
 }},
             "location":{
-              "x":880,
-              "y":430.5},
+              "x":935,
+              "y":433},
             "size":{
               "width":104,
               "height":25}},
@@ -3186,8 +3186,8 @@
                   "disabled":{
 }},
                 "location":{
-                  "x":880,
-                  "y":430.5},
+                  "x":935,
+                  "y":433},
                 "size":{
                   "width":104,
                   "height":25}},
@@ -3256,8 +3256,8 @@
             "fontSize":"16px",
             "horizontalAlignment":"center",
             "location":{
-              "x":880,
-              "y":434},
+              "x":937,
+              "y":436},
             "size":{
               "width":100,
               "height":19},
@@ -3276,8 +3276,8 @@
                 "fontSize":"16px",
                 "horizontalAlignment":"center",
                 "location":{
-                  "x":880,
-                  "y":434},
+                  "x":937,
+                  "y":436},
                 "size":{
                   "width":100,
                   "height":19},

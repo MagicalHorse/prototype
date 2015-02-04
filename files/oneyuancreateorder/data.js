@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"oneyuancreateorder.html",
-  "generationDate":new Date(1422322815610.8),
+  "generationDate":new Date(1423024882716.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

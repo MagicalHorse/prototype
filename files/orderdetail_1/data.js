@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"orderdetail_1.html",
-  "generationDate":new Date(1422322817821.35),
+  "generationDate":new Date(1423024884456.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",

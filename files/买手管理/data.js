@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"买手管理.html",
-  "generationDate":new Date(1422322806497.35),
+  "generationDate":new Date(1423024874470.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "DroplistOption",
